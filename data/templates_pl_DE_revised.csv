@@ -1,0 +1,45 @@
+item_no,phrase1_masked,phrase2_masked,phrase2_cut,number
+1,Die [MASK] stiegen in den Bus.,Angesichts der Sonne trugen mehrere der [MASK] einen Hut.,Angesichts der Sonne trugen mehrere der,PL
+2,Die [MASK] durchquerten die Halle.,Aufgrund des schlechten Wetters trugen die meisten der [MASK] eine Mütze.,Aufgrund des schlechten Wetters trugen die meisten der,PL
+3,Die [MASK] stiegen in den Reisebus.,Bei schönem Wetter trugen einige der [MASK] Shorts.,Bei schönem Wetter trugen einige der,PL
+4,Die [MASK] gingen durch die Stadt.,Nach einem sehr langen Tag schienen die meisten der [MASK] gehen zu wollen.,Nach einem sehr langen Tag schienen die meisten der,PL
+5,Die [MASK] warteten auf einer Bank.,Wegen des wolkigen Wetters trug einer der [MASK] einen Regenmantel.,Wegen des wolkigen Wetters trug einer der,PL
+6,Die [MASK] gingen über den Platz.,Aufgrund der Hitze hatten mehrere der [MASK] keine Jacke.,Aufgrund der Hitze hatten mehrere der,PL
+7,Die [MASK] waren schon bei der Arbeit.,"Man konnte sehen, dass mehrere der [MASK] wirklich ruhig waren.","Man konnte sehen, dass mehrere der",PL
+8,Die [MASK] gingen zum Supermarkt.,"Da schlechtes Wetter vorhergesagt wurde, hatte eine der [MASK] einen Regenschirm.","Da schlechtes Wetter vorhergesagt wurde, hatte eine der",PL
+9,Die [MASK] warteten in der Nähe der Schranke.,Nach einiger Zeit schienen die meisten der [MASK] gehen zu wollen.,Nach einiger Zeit schienen die meisten der,PL
+10,Die [MASK] gingen eilig hinaus.,"Man konnte sehen, dass die meisten der [MASK] wirklich traurig waren.","Man konnte sehen, dass die meisten der",PL
+11,Die [MASK] betraten das Gebäude.,"Es war offensichtlich, dass die Mehrheit der [MASK] wirklich wütend war.","Es war offensichtlich, dass die Mehrheit der",PL
+12,Die [MASK] gingen durch das Dorf.,Am Ende des Tages schien eine der [MASK] eine Pause machen zu wollen.,Am Ende des Tages schien eine der,PL
+13,Die [MASK] durchquerten das Dorf.,Nach einiger Zeit schienen die meisten der [MASK] nach Hause zu wollen.,Nach einiger Zeit schienen die meisten der,PL
+14,Die [MASK] verließen das Hotel.,Bei gutem Wetter trugen einige der [MASK] einen Hut.,Bei gutem Wetter trugen einige der,PL
+15,Die [MASK] waren bereits am Bahnhof.,Nach einem sehr langen Tag schien die Mehrheit der [MASK] nach Hause zu wollen.,Nach einem sehr langen Tag schien die Mehrheit der,PL
+16,Die [MASK] warteten auf den Stufen.,"Es war offensichtlich, dass einige der [MASK] wirklich guter Laune waren.","Es war offensichtlich, dass einige der",PL
+17,Die [MASK] verließen das Schloss.,"Man konnte bemerken, dass eine der [MASK] wirklich wütend war.","Man konnte bemerken, dass eine der",PL
+18,Die [MASK] gingen die Treppe hinunter.,"Man konnte sehen, dass einer der [MASK] wirklich guter Laune war.","Man konnte sehen, dass einer der",PL
+19,Die [MASK] durchquerten den Park.,Nach einiger Zeit schienen mehrere der [MASK] eine Pause machen zu wollen.,Nach einiger Zeit schienen mehrere der,PL
+20,Die [MASK] betraten das Krankenhaus.,Angesichts des guten Wetters hatten einige der [MASK] keine Jacke.,Angesichts des guten Wetters hatten einige der,PL
+21,Die [MASK] betraten den Flughafen.,"Man konnte bemerken, dass einige der [MASK] wirklich traurig waren.","Man konnte bemerken, dass einige der",PL
+22,Die [MASK] machten schon Pause.,"Man konnte bemerken, dass einer der [MASK] wirklich ruhig war.","Man konnte bemerken, dass einer der",PL
+23,Die [MASK] sahen sehr krank aus.,"Es war offensichtlich, dass die Mehrheit der [MASK] gesund war.","Es war offensichtlich, dass die Mehrheit der",PL
+24,Die [MASK] gingen ins Krankenhaus.,"Man konnte sehen, dass einige der [MASK] wirklich krank aussahen.","Man konnte sehen, dass einige der",PL
+25,Die [MASK] stiegen aus dem Flugzeug.,Nach einem so langen Tag schien die Mehrheit der [MASK] nach Hause zu wollen.,Nach einem so langen Tag schien die Mehrheit der,PL
+26,Die [MASK] waren schon am Treffpunkt.,Nach einiger Zeit schienen mehrere der [MASK] gehen zu wollen.,Nach einiger Zeit schienen mehrere der,PL
+27,Die [MASK] gingen die Stufen hinunter.,Nach einem so langen Tag schien ein Teil der [MASK] gehen zu wollen.,Nach einem so langen Tag schien ein Teil der,PL
+28,Die [MASK] betraten das Haus.,Am Ende des Tages schienen einige der [MASK] eine Pause machen zu wollen.,Am Ende des Tages schienen einige der,PL
+29,Die [MASK] kamen von der Arbeit zurück.,Nach einiger Zeit schienen einige der [MASK] umkehren zu wollen.,Nach einiger Zeit schienen einige der,PL
+30,Die [MASK] unterhielten sich ruhig.,Nach einiger Zeit schien ein Teil der [MASK] gehen zu wollen.,Nach einiger Zeit schien ein Teil der,PL
+31,Die [MASK] freuten sich über das Ergebnis.,"Es war offensichtlich, dass die Mehrheit der [MASK] wirklich traurig war.","Es war offensichtlich, dass die Mehrheit der",PL
+32,Die [MASK] wirkten wirklich traurig.,"Man konnte bemerken, dass mehrere der [MASK] sehr guter Laune waren.","Man konnte bemerken, dass mehrere der",PL
+33,Die [MASK] diskutierten lebhaft.,Nach einiger Zeit schien ein Teil der [MASK] gehen zu wollen.,Nach einiger Zeit schien ein Teil der,PL
+34,Die [MASK] kamen in der Nacht nach Hause.,Angesichts des guten Wetters trugen die meisten der [MASK] Sonnenbrillen.,Angesichts des guten Wetters trugen die meisten der,PL
+35,Die [MASK] genossen die Sonne.,Aufgrund des schlechten Wetters trug einer der [MASK] einen Regenmantel.,Aufgrund des schlechten Wetters trug einer der,PL
+36,Die [MASK] warteten im Regen.,"Da es schön war, trugen einige der [MASK] ein T-Shirt.","Da es schön war, trugen einige der",PL
+37,Die [MASK] schützten sich vor der Hitze.,"Da es kalt war, trug eine der [MASK] eine Winterjacke.","Da es kalt war, trug eine der",PL
+38,Die [MASK] schützten sich vor dem Regen.,"Da es schön war, trugen mehrere der [MASK] einen Hut.","Da es schön war, trugen mehrere der",PL
+39,Die [MASK] sahen die Schneeflocken an.,Wegen der Hitze hatten einige der [MASK] keine Jacke.,Wegen der Hitze hatten einige der,PL
+40,Die [MASK] genossen Wein in der Sonne.,Wegen des Regens hatten einige der [MASK] einen Regenschirm.,Wegen des Regens hatten einige der,PL
+41,Die [MASK] sahen das Spiel im Regen.,Aufgrund des guten Wetters trugen die meisten der [MASK] Shorts.,Aufgrund des guten Wetters trugen die meisten der,PL
+42,Die [MASK] genossen die Sonne.,"Da es regnete, trugen die meisten der [MASK] eine Winterjacke.","Da es regnete, trugen die meisten der",PL
+43,Die [MASK] sahen den Regen fallen.,Bei schönem Wetter trug die Mehrheit der [MASK] Sonnenbrillen.,Bei schönem Wetter trug die Mehrheit der,PL
+44,Die [MASK] gingen durch den Schneesturm.,Angesichts der Hitze trugen einige der [MASK] ein T-Shirt.,Angesichts der Hitze trugen einige der,PL

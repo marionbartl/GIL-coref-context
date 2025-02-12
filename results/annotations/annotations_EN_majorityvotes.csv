@@ -1,0 +1,633 @@
+item_no,ante_noun,ante_gender,sentences,continuation,gender_a1,ref_a1,gender_a2,ref_a2,gender_a3,ref_a3,gender_mv,ref_mv
+1,grandparents,n,"The grandparents were waiting on a bench. Because of the cloudy weather, one of the"," grandparents said, ""It",n,yes,n,yes,n,yes,n,yes
+2,grandmothers,f,"The grandmothers were waiting on a bench. Because of the cloudy weather, one of the"," grandmothers said,",f,yes,f,yes,f,yes,f,yes
+3,grandfathers,m,"The grandfathers were waiting on a bench. Because of the cloudy weather, one of the"," grandfathers said,",m,yes,m,yes,m,yes,m,yes
+4,monarchs,n,"The monarchs were waiting on a bench. Because of the cloudy weather, one of the",monarchs was not happy,n,yes,n,yes,n,yes,n,yes
+5,queens,f,"The queens were waiting on a bench. Because of the cloudy weather, one of the",queens was wearing a hat,f,yes,f,yes,f,yes,f,yes
+6,kings,m,"The kings were waiting on a bench. Because of the cloudy weather, one of the",kings was wearing a rain,m,yes,m,yes,m,yes,m,yes
+7,siblings,n,"The siblings were waiting on a bench. Because of the cloudy weather, one of the",siblings felt cold and curled,n,yes,n,yes,n,yes,n,yes
+8,sisters,f,"The sisters were waiting on a bench. Because of the cloudy weather, one of the",sisters had to use a,f,yes,f,yes,f,yes,f,yes
+9,brothers,m,"The brothers were waiting on a bench. Because of the cloudy weather, one of the",brothers was afraid that it,m,yes,m,yes,m,yes,m,yes
+10,parents-in-law,n,"The parents-in-law were waiting on a bench. Because of the cloudy weather, one of the"," parents-in-law said,",n,yes,n,yes,n,yes,n,yes
+11,mothers-in-law,f,"The mothers-in-law were waiting on a bench. Because of the cloudy weather, one of the",mothers-in-law suggested that,f,yes,f,yes,f,yes,f,yes
+12,fathers-in-law,m,"The fathers-in-law were waiting on a bench. Because of the cloudy weather, one of the",fathers-in-law fell asleep,m,yes,m,yes,m,yes,m,yes
+13,parents,n,"The parents were waiting on a bench. Because of the cloudy weather, one of the",parents was wearing a rain,n,yes,n,yes,n,yes,n,yes
+14,mothers,f,"The mothers were waiting on a bench. Because of the cloudy weather, one of the",mothers was wearing a rain,f,yes,f,yes,f,yes,f,yes
+15,fathers,m,"The fathers were waiting on a bench. Because of the cloudy weather, one of the",fathers suggested that they should,m,yes,m,yes,m,yes,m,yes
+16,children,n,"The children were waiting on a bench. Because of the cloudy weather, one of the",children was waiting for the,n,yes,n,yes,n,yes,n,yes
+17,daughters,f,"The daughters were waiting on a bench. Because of the cloudy weather, one of the",daughters was wearing a hat,f,yes,f,yes,f,yes,f,yes
+18,sons,m,"The sons were waiting on a bench. Because of the cloudy weather, one of the",sons was wearing a rain,m,yes,m,yes,m,yes,m,yes
+19,spouses,n,"The spouses were waiting on a bench. Because of the cloudy weather, one of the",spouses was wearing a hat,n,yes,n,yes,n,yes,n,yes
+20,wives,f,"The wives were waiting on a bench. Because of the cloudy weather, one of the",wives was wearing a hat,f,yes,f,yes,f,yes,f,yes
+21,husbands,m,"The husbands were waiting on a bench. Because of the cloudy weather, one of the",husbands decided to buy a,m,yes,m,yes,m,yes,m,yes
+22,grandparents,n,"The grandparents were waiting near the barrier. After a while, most of the",passengers got off the train,n,no,n,no,n,no,n,no
+23,grandmothers,f,"The grandmothers were waiting near the barrier. After a while, most of the"," children came back, but",f,no,n,no,n,no,n,no
+24,grandfathers,m,"The grandfathers were waiting near the barrier. After a while, most of the"," people left, and only",m,no,n,UNSURE,n,no,n,no
+25,monarchs,n,"The monarchs were waiting near the barrier. After a while, most of the",people waiting with them began,n,no,n,yes,n,no,n,no
+26,queens,f,"The queens were waiting near the barrier. After a while, most of the",queens left. The remaining,f,yes,f,yes,f,yes,f,yes
+27,kings,m,"The kings were waiting near the barrier. After a while, most of the",kings were waiting near the,m,yes,m,yes,m,yes,m,yes
+28,siblings,n,"The siblings were waiting near the barrier. After a while, most of the",people around them started to,n,no,n,yes,n,no,n,no
+29,sisters,f,"The sisters were waiting near the barrier. After a while, most of the",passengers got off the train,f,no,n,no,n,no,n,no
+30,brothers,m,"The brothers were waiting near the barrier. After a while, most of the",people in the crowd began,m,no,n,no,n,no,n,no
+31,parents-in-law,n,"The parents-in-law were waiting near the barrier. After a while, most of the"," people had left, and",n,no,n,no,n,no,n,no
+32,mothers-in-law,f,"The mothers-in-law were waiting near the barrier. After a while, most of the"," mothers-in-law left,",f,yes,f,yes,f,yes,f,yes
+33,fathers-in-law,m,"The fathers-in-law were waiting near the barrier. After a while, most of the"," fathers-in-law left,",m,yes,m,yes,m,yes,m,yes
+34,parents,n,"The parents were waiting near the barrier. After a while, most of the",children came back from the,n,no,n,no,n,no,n,no
+35,mothers,f,"The mothers were waiting near the barrier. After a while, most of the",mothers were called to the,f,yes,f,yes,f,yes,f,yes
+36,fathers,m,"The fathers were waiting near the barrier. After a while, most of the",children came back from the,m,no,n,no,n,no,n,no
+37,children,n,"The children were waiting near the barrier. After a while, most of the",children were taken away by,n,yes,n,yes,n,yes,n,yes
+38,daughters,f,"The daughters were waiting near the barrier. After a while, most of the",other people had left.,f,no,n,no,n,no,n,no
+39,sons,m,"The sons were waiting near the barrier. After a while, most of the",other people had left.,m,no,n,no,n,no,n,no
+40,spouses,n,"The spouses were waiting near the barrier. After a while, most of the",people around them started to,n,no,n,no,n,no,n,no
+41,wives,f,"The wives were waiting near the barrier. After a while, most of the"," men came back, but",f,no,m,no,m,no,m,no
+42,husbands,m,"The husbands were waiting near the barrier. After a while, most of the",women came out of the,m,no,f,no,f,no,f,no
+43,grandparents,n,The grandparents were waiting on the steps. It was obvious that some of the,children were afraid of them,n,no,n,UNSURE,n,no,n,no
+44,grandmothers,f,The grandmothers were waiting on the steps. It was obvious that some of the,children had been crying.,f,no,n,no,n,no,n,no
+45,grandfathers,m,The grandfathers were waiting on the steps. It was obvious that some of the,elders had been waiting for,m,no,n,yes,n,no,n,no
+46,monarchs,n,The monarchs were waiting on the steps. It was obvious that some of the,monarchs had been waiting,n,yes,n,yes,n,yes,n,yes
+47,queens,f,The queens were waiting on the steps. It was obvious that some of the,queens were not happy with,f,yes,f,yes,f,yes,f,yes
+48,kings,m,The kings were waiting on the steps. It was obvious that some of the,kings were more impatient than,m,yes,m,yes,m,yes,m,yes
+49,siblings,n,The siblings were waiting on the steps. It was obvious that some of the,children had been there for,n,no,n,yes,n,no,n,no
+50,sisters,f,The sisters were waiting on the steps. It was obvious that some of the,girls had been crying.,f,yes,f,yes,f,yes,f,yes
+51,brothers,m,The brothers were waiting on the steps. It was obvious that some of the,steps were worn by the,m,no,NULL,yes,NULL,no,NULL,no
+52,parents-in-law,n,The parents-in-law were waiting on the steps. It was obvious that some of the,guests had already arrived.,n,no,n,no,n,no,n,no
+53,mothers-in-law,f,The mothers-in-law were waiting on the steps. It was obvious that some of the,women had been waiting for,f,yes,f,yes,f,yes,f,yes
+54,fathers-in-law,m,The fathers-in-law were waiting on the steps. It was obvious that some of the,men had been drinking.,m,yes,m,yes,m,yes,m,yes
+55,parents,n,The parents were waiting on the steps. It was obvious that some of the," children were very excited,",n,no,n,no,n,no,n,no
+56,mothers,f,The mothers were waiting on the steps. It was obvious that some of the,children had been crying.,f,no,n,no,n,no,n,no
+57,fathers,m,The fathers were waiting on the steps. It was obvious that some of the,boys had been crying.,m,no,m,no,m,no,m,no
+58,children,n,The children were waiting on the steps. It was obvious that some of the,children had been waiting for,n,yes,n,yes,n,yes,n,yes
+59,daughters,f,The daughters were waiting on the steps. It was obvious that some of the,girls were not happy with,f,yes,f,yes,f,yes,f,yes
+60,sons,m,The sons were waiting on the steps. It was obvious that some of the,boys had been crying.,m,yes,m,yes,m,yes,m,yes
+61,spouses,n,The spouses were waiting on the steps. It was obvious that some of the,men had been drinking.,n,no,m,yes,m,yes,m,yes
+62,wives,f,The wives were waiting on the steps. It was obvious that some of the,men had been drinking.,f,no,m,no,m,no,m,no
+63,husbands,m,The husbands were waiting on the steps. It was obvious that some of the,women had been crying.,m,no,f,no,f,no,f,no
+64,grandparents,n,The grandparents were descending the stairs. It was evident that one of the,grandchildren had been sitting on,n,no,n,no,n,no,n,no
+65,grandmothers,f,The grandmothers were descending the stairs. It was evident that one of the,grandmothers was not,f,yes,f,yes,f,yes,f,yes
+66,grandfathers,m,The grandfathers were descending the stairs. It was evident that one of the,grandfathers was a,m,yes,m,yes,m,yes,m,yes
+67,monarchs,n,The monarchs were descending the stairs. It was evident that one of the,monarchs was a king,n,yes,n,yes,n,yes,n,yes
+68,queens,f,The queens were descending the stairs. It was evident that one of the,queens was the mother of,f,yes,f,yes,f,yes,f,yes
+69,kings,m,The kings were descending the stairs. It was evident that one of the,kings was the king of,m,yes,m,yes,m,yes,m,yes
+70,siblings,n,The siblings were descending the stairs. It was evident that one of the,siblings was the oldest.,n,yes,n,yes,n,yes,n,yes
+71,sisters,f,The sisters were descending the stairs. It was evident that one of the,sisters was the older of,f,yes,f,yes,f,yes,f,yes
+72,brothers,m,The brothers were descending the stairs. It was evident that one of the," brothers was older, because",m,yes,m,yes,m,yes,m,yes
+73,parents-in-law,n,The parents-in-law were descending the stairs. It was evident that one of the,pair had been crying.,n,yes,n,yes,n,yes,n,yes
+74,mothers-in-law,f,The mothers-in-law were descending the stairs. It was evident that one of the,mothers-in-law was the,f,yes,f,yes,f,yes,f,yes
+75,fathers-in-law,m,The fathers-in-law were descending the stairs. It was evident that one of the,fathers-in-law was a,m,yes,m,yes,m,yes,m,yes
+76,parents,n,The parents were descending the stairs. It was evident that one of the,parents was upset. The,n,yes,n,yes,n,yes,n,yes
+77,mothers,f,The mothers were descending the stairs. It was evident that one of the,mothers had been crying.,f,yes,f,yes,f,yes,f,yes
+78,fathers,m,The fathers were descending the stairs. It was evident that one of the,fathers was a little tips,m,yes,m,yes,m,yes,m,yes
+79,children,n,The children were descending the stairs. It was evident that one of the,children was the leader of,n,yes,n,yes,n,yes,n,yes
+80,daughters,f,The daughters were descending the stairs. It was evident that one of the,girls was the other's,f,yes,f,yes,f,yes,f,yes
+81,sons,m,The sons were descending the stairs. It was evident that one of the,boys was not happy with,m,yes,m,yes,m,yes,m,yes
+82,spouses,n,The spouses were descending the stairs. It was evident that one of the,spouses was the husband.,n,yes,n,yes,n,yes,n,yes
+83,wives,f,The wives were descending the stairs. It was evident that one of the,wives was not a wife,f,yes,f,yes,f,yes,f,yes
+84,husbands,m,The husbands were descending the stairs. It was evident that one of the,husbands was a very wealthy,m,yes,m,yes,m,yes,m,yes
+85,grandparents,n,The grandparents were entering the airport. It was noticeable that a few of the,people around them were wearing,n,yes,n,yes,n,no,n,yes
+86,grandmothers,f,The grandmothers were entering the airport. It was noticeable that a few of the,grandmothers were not,f,yes,f,yes,f,yes,f,yes
+87,grandfathers,m,The grandfathers were entering the airport. It was noticeable that a few of the,grandfathers were entering,m,yes,m,yes,m,yes,m,yes
+88,monarchs,n,The monarchs were entering the airport. It was noticeable that a few of the,monarchs were not in,n,yes,n,yes,n,yes,n,yes
+89,queens,f,The queens were entering the airport. It was noticeable that a few of the,queens were not from the,f,yes,f,yes,f,yes,f,yes
+90,kings,m,The kings were entering the airport. It was noticeable that a few of the,kings were wearing crowns,m,yes,m,yes,m,yes,m,yes
+91,siblings,n,The siblings were entering the airport. It was noticeable that a few of the,other passengers were also a,n,no,n,no,n,no,n,no
+92,sisters,f,The sisters were entering the airport. It was noticeable that a few of the,other passengers were getting nervous,f,no,n,no,n,no,n,no
+93,brothers,m,The brothers were entering the airport. It was noticeable that a few of the,other people were also arriving,m,no,n,no,n,no,n,no
+94,parents-in-law,n,The parents-in-law were entering the airport. It was noticeable that a few of the,passengers were in a hurry,n,no,n,yes,n,no,n,no
+95,mothers-in-law,f,The mothers-in-law were entering the airport. It was noticeable that a few of the,mothers-in-law were not,f,yes,f,yes,f,yes,f,yes
+96,fathers-in-law,m,The fathers-in-law were entering the airport. It was noticeable that a few of the,fathers-in-law were not,m,yes,m,yes,m,yes,m,yes
+97,parents,n,The parents were entering the airport. It was noticeable that a few of the,other parents were crying.,n,yes,n,UNSURE,n,no,n,NULL
+98,mothers,f,The mothers were entering the airport. It was noticeable that a few of the,mothers were not traveling with,f,yes,f,yes,f,yes,f,yes
+99,fathers,m,The fathers were entering the airport. It was noticeable that a few of the,fathers were not as happy,m,yes,m,yes,m,yes,m,yes
+100,children,n,The children were entering the airport. It was noticeable that a few of the,children were not with their,n,yes,n,yes,n,yes,n,yes
+101,daughters,f,The daughters were entering the airport. It was noticeable that a few of the,daughters were not wearing what,f,yes,f,yes,f,yes,f,yes
+102,sons,m,The sons were entering the airport. It was noticeable that a few of the,sons were not married.,m,yes,m,yes,m,yes,m,yes
+103,spouses,n,The spouses were entering the airport. It was noticeable that a few of the,other passengers were also couples,n,no,n,yes,n,no,n,no
+104,wives,f,The wives were entering the airport. It was noticeable that a few of the,wives were not wearing masks,f,yes,f,yes,f,yes,f,yes
+105,husbands,m,The husbands were entering the airport. It was noticeable that a few of the,husbands were nervous. The,m,yes,m,yes,m,yes,m,yes
+106,grandparents,n,The grandparents were already on break. It was noticeable that one of the,grandchildren was not there.,n,no,n,no,n,no,n,no
+107,grandmothers,f,The grandmothers were already on break. It was noticeable that one of the,grandmothers was not,f,yes,f,yes,f,yes,f,yes
+108,grandfathers,m,The grandfathers were already on break. It was noticeable that one of the,grandfathers was not,m,yes,m,yes,m,yes,m,yes
+109,monarchs,n,The monarchs were already on break. It was noticeable that one of the,monarchs was a little,n,yes,n,yes,n,yes,n,yes
+110,queens,f,The queens were already on break. It was noticeable that one of the,queens was missing. The,f,yes,f,yes,f,yes,f,yes
+111,kings,m,The kings were already on break. It was noticeable that one of the,kings was missing. The,m,yes,m,yes,m,yes,m,yes
+112,siblings,n,The siblings were already on break. It was noticeable that one of the,siblings was not there.,n,yes,n,yes,n,yes,n,yes
+113,sisters,f,The sisters were already on break. It was noticeable that one of the,sisters was not there.,f,yes,f,yes,f,yes,f,yes
+114,brothers,m,The brothers were already on break. It was noticeable that one of the,brothers was not as what,m,yes,m,yes,m,yes,m,yes
+115,parents-in-law,n,The parents-in-law were already on break. It was noticeable that one of the,children was missing. The,n,no,n,no,n,no,n,no
+116,mothers-in-law,f,The mothers-in-law were already on break. It was noticeable that one of the,mothers-in-law was not,f,yes,f,yes,f,yes,f,yes
+117,fathers-in-law,m,The fathers-in-law were already on break. It was noticeable that one of the,fathers-in-law was a,m,yes,m,yes,m,yes,m,yes
+118,parents,n,The parents were already on break. It was noticeable that one of the,parents was not there.,n,yes,n,yes,n,yes,n,yes
+119,mothers,f,The mothers were already on break. It was noticeable that one of the,mothers was not there.,f,yes,f,yes,f,yes,f,yes
+120,fathers,m,The fathers were already on break. It was noticeable that one of the,fathers was not there.,m,yes,m,yes,m,yes,m,yes
+121,children,n,The children were already on break. It was noticeable that one of the," children was not where?
+",n,yes,n,yes,n,yes,n,yes
+122,daughters,f,The daughters were already on break. It was noticeable that one of the,daughters was not there.,f,yes,f,yes,f,yes,f,yes
+123,sons,m,The sons were already on break. It was noticeable that one of the,sons was not there.,m,yes,m,yes,m,yes,m,yes
+124,spouses,n,The spouses were already on break. It was noticeable that one of the,spouses were on the bed,n,yes,n,yes,n,yes,n,yes
+125,wives,f,The wives were already on break. It was noticeable that one of the,wives was not there.,f,yes,f,yes,f,yes,f,yes
+126,husbands,m,The husbands were already on break. It was noticeable that one of the,wives was missing. The,m,no,f,no,f,no,f,no
+127,grandparents,n,"The grandparents were descending the steps. After such a long day, some of the",steps were hard to see,n,no,NULL,yes,NULL,no,NULL,no
+128,grandmothers,f,"The grandmothers were descending the steps. After such a long day, some of the",steps were difficult for them,f,no,NULL,yes,NULL,no,NULL,no
+129,grandfathers,m,"The grandfathers were descending the steps. After such a long day, some of the",steps were particularly difficult.,m,no,NULL,yes,NULL,no,NULL,no
+130,monarchs,n,"The monarchs were descending the steps. After such a long day, some of the",monarchs were tired and,n,yes,n,yes,n,yes,n,yes
+131,queens,f,"The queens were descending the steps. After such a long day, some of the",queens were tired and went,f,yes,f,yes,f,yes,f,yes
+132,kings,m,"The kings were descending the steps. After such a long day, some of the",kings were tired and some,m,yes,m,yes,m,yes,m,yes
+133,siblings,n,"The siblings were descending the steps. After such a long day, some of the",steps were difficult. The,n,no,NULL,yes,NULL,no,NULL,no
+134,sisters,f,"The sisters were descending the steps. After such a long day, some of the",steps were hard to see,f,no,NULL,yes,NULL,no,NULL,no
+135,brothers,m,"The brothers were descending the steps. After such a long day, some of the",steps were hard to see,m,no,NULL,yes,NULL,no,NULL,no
+136,parents-in-law,n,"The parents-in-law were descending the steps. After such a long day, some of the",guests were already leaving.,n,no,n,UNSURE,n,no,n,no
+137,mothers-in-law,f,"The mothers-in-law were descending the steps. After such a long day, some of the",women were tired and some,f,yes,f,yes,f,yes,f,yes
+138,fathers-in-law,m,"The fathers-in-law were descending the steps. After such a long day, some of the",men were tired and sleepy,m,yes,m,yes,m,yes,m,yes
+139,parents,n,"The parents were descending the steps. After such a long day, some of the",parents were exhausted. The,n,yes,n,yes,n,yes,n,yes
+140,mothers,f,"The mothers were descending the steps. After such a long day, some of the",mothers were tired and some,f,yes,f,yes,f,yes,f,yes
+141,fathers,m,"The fathers were descending the steps. After such a long day, some of the",fathers were tired and some,m,yes,m,yes,m,yes,m,yes
+142,children,n,"The children were descending the steps. After such a long day, some of the",children were tired and sleepy,n,yes,n,yes,n,yes,n,yes
+143,daughters,f,"The daughters were descending the steps. After such a long day, some of the",steps were a bit difficult,f,no,NULL,yes,NULL,no,NULL,no
+144,sons,m,"The sons were descending the steps. After such a long day, some of the",steps were a bit difficult,m,no,NULL,yes,NULL,no,NULL,no
+145,spouses,n,"The spouses were descending the steps. After such a long day, some of the",steps were difficult to take,n,no,NULL,yes,NULL,no,NULL,no
+146,wives,f,"The wives were descending the steps. After such a long day, some of the",women were tired and sleepy,f,yes,f,yes,f,yes,f,yes
+147,husbands,m,"The husbands were descending the steps. After such a long day, some of the",men were a little tips,m,yes,m,yes,m,yes,m,yes
+148,grandparents,n,"The grandparents were entering the house. At the end of the day, a few of the",grandchildren were still there.,n,no,n,no,n,no,n,no
+149,grandmothers,f,"The grandmothers were entering the house. At the end of the day, a few of the",grandmothers were leaving,f,yes,f,yes,f,yes,f,yes
+150,grandfathers,m,"The grandfathers were entering the house. At the end of the day, a few of the",grandfathers were still,m,yes,m,yes,m,yes,m,yes
+151,monarchs,n,"The monarchs were entering the house. At the end of the day, a few of the",monarchs were still on,n,yes,n,yes,n,yes,n,yes
+152,queens,f,"The queens were entering the house. At the end of the day, a few of the",queens were still in the,f,yes,f,yes,f,yes,f,yes
+153,kings,m,"The kings were entering the house. At the end of the day, a few of the",kings were still entering the,m,yes,m,yes,m,yes,m,yes
+154,siblings,n,"The siblings were entering the house. At the end of the day, a few of the",siblings were still in the,n,no,n,yes,n,yes,n,yes
+155,sisters,f,"The sisters were entering the house. At the end of the day, a few of the",girls had to be carried,f,yes,f,yes,f,yes,f,yes
+156,brothers,m,"The brothers were entering the house. At the end of the day, a few of the",boys would be punished for,m,yes,m,yes,m,yes,m,yes
+157,parents-in-law,n,"The parents-in-law were entering the house. At the end of the day, a few of the"," guests had left, and",n,no,n,UNSURE,n,no,n,no
+158,mothers-in-law,f,"The mothers-in-law were entering the house. At the end of the day, a few of the"," women were still there,",f,yes,f,yes,f,yes,f,yes
+159,fathers-in-law,m,"The fathers-in-law were entering the house. At the end of the day, a few of the",men who had been working,m,yes,m,yes,m,yes,m,yes
+160,parents,n,"The parents were entering the house. At the end of the day, a few of the",children were still playing outside,n,no,n,no,n,no,n,no
+161,mothers,f,"The mothers were entering the house. At the end of the day, a few of the",mothers were leaving the house,f,yes,f,yes,f,yes,f,yes
+162,fathers,m,"The fathers were entering the house. At the end of the day, a few of the",fathers were still working.,m,yes,m,yes,m,yes,m,yes
+163,children,n,"The children were entering the house. At the end of the day, a few of the",children were still there.,n,yes,n,yes,n,yes,n,yes
+164,daughters,f,"The daughters were entering the house. At the end of the day, a few of the",girls were still outside.,f,yes,f,yes,f,yes,f,yes
+165,sons,m,"The sons were entering the house. At the end of the day, a few of the",sons were still in the,m,yes,m,yes,m,yes,m,yes
+166,spouses,n,"The spouses were entering the house. At the end of the day, a few of the",guests were still there.,n,no,n,UNSURE,n,no,n,no
+167,wives,f,"The wives were entering the house. At the end of the day, a few of the",wives were still outside.,f,yes,f,yes,f,yes,f,yes
+168,husbands,m,"The husbands were entering the house. At the end of the day, a few of the",husbands were entering the house,m,yes,m,yes,m,yes,m,yes
+169,grandparents,n,"The grandparents were talking calmly. After a while, some of the",people in the room began,n,no,n,yes,n,no,n,no
+170,grandmothers,f,"The grandmothers were talking calmly. After a while, some of the",women began to cry.,f,yes,f,yes,f,yes,f,yes
+171,grandfathers,m,"The grandfathers were talking calmly. After a while, some of the",young men began to get,m,no,m,no,m,no,m,no
+172,monarchs,n,"The monarchs were talking calmly. After a while, some of the",monarchs were talking calmly,n,yes,n,yes,n,yes,n,yes
+173,queens,f,"The queens were talking calmly. After a while, some of the",other women joined in the,f,no,f,no,f,no,f,no
+174,kings,m,"The kings were talking calmly. After a while, some of the",kings got bored and left,m,yes,m,yes,m,yes,m,yes
+175,siblings,n,"The siblings were talking calmly. After a while, some of the",siblings started to get angry,n,no,n,yes,n,yes,n,yes
+176,sisters,f,"The sisters were talking calmly. After a while, some of the",other people in the room,f,no,n,no,n,no,n,no
+177,brothers,m,"The brothers were talking calmly. After a while, some of the",other people in the room,m,no,n,no,n,no,n,no
+178,parents-in-law,n,"The parents-in-law were talking calmly. After a while, some of the",guests arrived. The parents,n,no,n,yes,n,no,n,no
+179,mothers-in-law,f,"The mothers-in-law were talking calmly. After a while, some of the",women began to cry.,f,yes,f,yes,f,yes,f,yes
+180,fathers-in-law,m,"The fathers-in-law were talking calmly. After a while, some of the"," young men came back,",m,no,m,no,m,no,m,no
+181,parents,n,"The parents were talking calmly. After a while, some of the",children began to get restless,n,yes,n,no,n,no,n,no
+182,mothers,f,"The mothers were talking calmly. After a while, some of the",mothers began to leave.,f,yes,f,yes,f,yes,f,yes
+183,fathers,m,"The fathers were talking calmly. After a while, some of the",fathers began to cry.,m,yes,m,yes,m,yes,m,yes
+184,children,n,"The children were talking calmly. After a while, some of the",children began to get excited,n,yes,n,yes,n,yes,n,yes
+185,daughters,f,"The daughters were talking calmly. After a while, some of the",men began to leave.,f,no,m,no,m,no,m,no
+186,sons,m,"The sons were talking calmly. After a while, some of the",men began to leave.,n,yes,m,no,m,yes,m,yes
+187,spouses,n,"The spouses were talking calmly. After a while, some of the",people in the room began,n,no,n,yes,n,no,n,no
+188,wives,f,"The wives were talking calmly. After a while, some of the",husbands began to get restless,f,yes,m,no,f,no,f,no
+189,husbands,m,"The husbands were talking calmly. After a while, some of the",women began to cry.,m,yes,f,no,f,no,f,no
+190,grandparents,n,The grandparents were congratulating each other on the result. It was obvious that the majority of the,family was against them.,n,yes,n,yes,n,no,n,yes
+191,grandmothers,f,The grandmothers were congratulating each other on the result. It was obvious that the majority of the,votes were cast in favor,f,no,n,no,NULL,no,NULL,no
+192,grandfathers,m,The grandfathers were congratulating each other on the result. It was obvious that the majority of the,grandfathers were ____,m,yes,m,yes,m,yes,m,yes
+193,monarchs,n,The monarchs were congratulating each other on the result. It was obvious that the majority of the,people had voted for the,n,yes,n,UNSURE,n,no,n,NULL
+194,queens,f,The queens were congratulating each other on the result. It was obvious that the majority of the,council was on their side,f,no,n,yes,n,no,n,no
+195,kings,m,The kings were congratulating each other on the result. It was obvious that the majority of the,people were in favor of,m,yes,n,UNSURE,n,no,n,NULL
+196,siblings,n,The siblings were congratulating each other on the result. It was obvious that the majority of the,family voted for the older,n,yes,n,no,n,yes,n,yes
+197,sisters,f,The sisters were congratulating each other on the result. It was obvious that the majority of the,voters had chosen the right,f,no,n,UNSURE,n,no,n,no
+198,brothers,m,The brothers were congratulating each other on the result. It was obvious that the majority of the,jury was in their favor,m,no,n,yes,n,no,n,no
+199,parents-in-law,n,The parents-in-law were congratulating each other on the result. It was obvious that the majority of the,guests were on their side,n,no,n,yes,n,no,n,no
+200,mothers-in-law,f,The mothers-in-law were congratulating each other on the result. It was obvious that the majority of the,guests were on their side,f,no,n,yes,n,no,n,no
+201,fathers-in-law,m,The fathers-in-law were congratulating each other on the result. It was obvious that the majority of the,guests were on the side,m,no,n,no,n,no,n,no
+202,parents,n,The parents were congratulating each other on the result. It was obvious that the majority of the,parents were very happy with,n,yes,n,yes,n,yes,n,yes
+203,mothers,f,The mothers were congratulating each other on the result. It was obvious that the majority of the,mothers had been to the,f,yes,f,yes,f,yes,f,yes
+204,fathers,m,The fathers were congratulating each other on the result. It was obvious that the majority of the,fathers were very happy with,m,yes,m,yes,m,yes,m,yes
+205,children,n,The children were congratulating each other on the result. It was obvious that the majority of the,children were not used to,n,yes,n,yes,n,yes,n,yes
+206,daughters,f,The daughters were congratulating each other on the result. It was obvious that the majority of the,voters had chosen the right,f,no,n,UNSURE,f,no,f,no
+207,sons,m,The sons were congratulating each other on the result. It was obvious that the majority of the,jury was in their favor,m,no,n,yes,n,no,n,no
+208,spouses,n,The spouses were congratulating each other on the result. It was obvious that the majority of the,voters had approved of their,n,no,n,yes,n,no,n,no
+209,wives,f,The wives were congratulating each other on the result. It was obvious that the majority of the,husbands were not. The,f,yes,m,no,m,no,m,no
+210,husbands,m,The husbands were congratulating each other on the result. It was obvious that the majority of the,wives were not happy with,m,yes,f,no,f,no,f,no
+211,grandparents,n,"The grandparents were crossing the hall. Given the bad weather, most of the",people were staying at home,n,no,n,UNSURE,n,no,n,no
+212,grandmothers,f,"The grandmothers were crossing the hall. Given the bad weather, most of the",grandmothers were wearing,f,yes,f,yes,f,yes,f,yes
+213,grandfathers,m,"The grandfathers were crossing the hall. Given the bad weather, most of the",people were sitting in the,m,no,n,UNSURE,n,no,n,no
+214,monarchs,n,"The monarchs were crossing the hall. Given the bad weather, most of the",monarchs were late.,n,yes,n,yes,n,yes,n,yes
+215,queens,f,"The queens were crossing the hall. Given the bad weather, most of the",people were sitting in the,f,no,n,UNSURE,n,no,n,no
+216,kings,m,"The kings were crossing the hall. Given the bad weather, most of the",kings were wearing a rain,m,yes,m,yes,m,yes,m,yes
+217,siblings,n,"The siblings were crossing the hall. Given the bad weather, most of the",time they were walking in,n,no,n,yes,NULL,no,n,no
+218,sisters,f,"The sisters were crossing the hall. Given the bad weather, most of the",people were inside.,f,no,n,UNSURE,n,no,n,no
+219,brothers,m,"The brothers were crossing the hall. Given the bad weather, most of the",people were sitting in the,m,no,n,UNSURE,n,no,n,no
+220,parents-in-law,n,"The parents-in-law were crossing the hall. Given the bad weather, most of the",guests had left. The,n,no,n,UNSURE,n,no,n,no
+221,mothers-in-law,f,"The mothers-in-law were crossing the hall. Given the bad weather, most of the",guests were seated. The,f,no,n,UNSURE,n,no,n,no
+222,fathers-in-law,m,"The fathers-in-law were crossing the hall. Given the bad weather, most of the",guests had left. The,m,no,n,UNSURE,n,no,n,no
+223,parents,n,"The parents were crossing the hall. Given the bad weather, most of the",parents were wearing a coat,n,yes,n,yes,n,yes,n,yes
+224,mothers,f,"The mothers were crossing the hall. Given the bad weather, most of the",mothers were carrying umbrellas,f,yes,f,yes,f,yes,f,yes
+225,fathers,m,"The fathers were crossing the hall. Given the bad weather, most of the",fathers were late. The,m,yes,m,yes,m,yes,m,yes
+226,children,n,"The children were crossing the hall. Given the bad weather, most of the",children were wearing rainco,n,yes,n,yes,n,yes,n,yes
+227,daughters,f,"The daughters were crossing the hall. Given the bad weather, most of the",students were absent. Given,f,no,n,UNSURE,n,no,n,no
+228,sons,m,"The sons were crossing the hall. Given the bad weather, most of the",boys were in a hurry,m,yes,m,yes,m,yes,m,yes
+229,spouses,n,"The spouses were crossing the hall. Given the bad weather, most of the",guests were what? -,n,no,n,UNSURE,n,no,n,no
+230,wives,f,"The wives were crossing the hall. Given the bad weather, most of the",husbands were waiting for them,f,yes,m,yes,m,no,m,yes
+231,husbands,m,"The husbands were crossing the hall. Given the bad weather, most of the",wives were staying home.,m,yes,f,no,f,no,f,no
+232,grandparents,n,"The grandparents were going to the supermarket. With bad weather expected, one of the",grandchildren gave Grandpa a,n,yes,n & m,yes,n,no,n,yes
+233,grandmothers,f,"The grandmothers were going to the supermarket. With bad weather expected, one of the",grandmothers took an,f,yes,f,yes,f,yes,f,yes
+234,grandfathers,m,"The grandfathers were going to the supermarket. With bad weather expected, one of the",grandfathers said to,m,yes,m,yes,m,yes,m,yes
+235,monarchs,n,"The monarchs were going to the supermarket. With bad weather expected, one of the",monarchs decided to buy,n,yes,n,yes,n,yes,n,yes
+236,queens,f,"The queens were going to the supermarket. With bad weather expected, one of the",queens asked the other to,f,yes,f,yes,f,yes,f,yes
+237,kings,m,"The kings were going to the supermarket. With bad weather expected, one of the",kings wanted to buy a,m,yes,m,yes,m,yes,m,yes
+238,siblings,n,"The siblings were going to the supermarket. With bad weather expected, one of the"," siblings said, ""It",n,yes,n,yes,n,yes,n,yes
+239,sisters,f,"The sisters were going to the supermarket. With bad weather expected, one of the"," sisters said, ""Let",f,yes,f,yes,f,yes,f,yes
+240,brothers,m,"The brothers were going to the supermarket. With bad weather expected, one of the",brothers decided to go immediately,m,yes,m,yes,m,yes,m,yes
+241,parents-in-law,n,"The parents-in-law were going to the supermarket. With bad weather expected, one of the",children asked them to buy,n,no,n,yes,n,no,n,no
+242,mothers-in-law,f,"The mothers-in-law were going to the supermarket. With bad weather expected, one of the",mothers-in-law went to,f,yes,f,yes,f,yes,f,yes
+243,fathers-in-law,m,"The fathers-in-law were going to the supermarket. With bad weather expected, one of the",fathers-in-law asked the,m,yes,m,yes,m,yes,m,yes
+244,parents,n,"The parents were going to the supermarket. With bad weather expected, one of the"," children asked, ""Will",n,yes,n,UNSURE,n,no,n,NULL
+245,mothers,f,"The mothers were going to the supermarket. With bad weather expected, one of the"," mothers said, ""I",f,yes,f,yes,f,yes,f,yes
+246,fathers,m,"The fathers were going to the supermarket. With bad weather expected, one of the",fathers asked the other to,m,yes,m,yes,m,yes,m,yes
+247,children,n,"The children were going to the supermarket. With bad weather expected, one of the"," children asked, ""Will",n,yes,n,yes,n,yes,n,yes
+248,daughters,f,"The daughters were going to the supermarket. With bad weather expected, one of the"," daughters said, ""I",f,yes,f,yes,f,yes,f,yes
+249,sons,m,"The sons were going to the supermarket. With bad weather expected, one of the",sons asked their mother what,m,yes,m,yes,m,yes,m,yes
+250,spouses,n,"The spouses were going to the supermarket. With bad weather expected, one of the",spouses said to the other,n,yes,n,yes,n,yes,n,yes
+251,wives,f,"The wives were going to the supermarket. With bad weather expected, one of the"," wives said, ""I",f,yes,f,yes,f,yes,f,yes
+252,husbands,m,"The husbands were going to the supermarket. With bad weather expected, one of the"," husbands said, ""I",m,yes,m,yes,m,yes,m,yes
+253,grandparents,n,The grandparents were leaving hastily. It was evident that most of the,family had already left.,n,no,n,yes,n,no,n,no
+254,grandmothers,f,The grandmothers were leaving hastily. It was evident that most of the,women were in a hurry,f,yes,f,yes,f,yes,f,yes
+255,grandfathers,m,The grandfathers were leaving hastily. It was evident that most of the,people in the room were,m,no,n,UNSURE,n,no,n,no
+256,monarchs,n,The monarchs were leaving hastily. It was evident that most of the,monarchs were flying in,n,no,n,yes,n,yes,n,yes
+257,queens,f,The queens were leaving hastily. It was evident that most of the,workers were not going to,f,no,n,no,n,no,n,no
+258,kings,m,The kings were leaving hastily. It was evident that most of the,people in the palace were,m,no,n,UNSURE,n,no,n,no
+259,siblings,n,The siblings were leaving hastily. It was evident that most of the,items were left behind.,n,no,NULL,no,NULL,no,NULL,no
+260,sisters,f,The sisters were leaving hastily. It was evident that most of the,things in the room had,f,no,NULL,no,NULL,no,NULL,no
+261,brothers,m,The brothers were leaving hastily. It was evident that most of the,men were armed. The,m,yes,m,yes,m,yes,m,yes
+262,parents-in-law,n,The parents-in-law were leaving hastily. It was evident that most of the,family were anxious to be,n,no,n,yes,n,NULL,n,NULL
+263,mothers-in-law,f,The mothers-in-law were leaving hastily. It was evident that most of the,women were in a hurry,f,yes,f,yes,f,yes,f,yes
+264,fathers-in-law,m,The fathers-in-law were leaving hastily. It was evident that most of the,women were not going to,m,no,f,no,f,no,f,no
+265,parents,n,The parents were leaving hastily. It was evident that most of the,children were not aware of,n,no,n,no,n,no,n,no
+266,mothers,f,The mothers were leaving hastily. It was evident that most of the,children had been taken away,f,no,n,no,n,no,n,no
+267,fathers,m,The fathers were leaving hastily. It was evident that most of the,children had never seen their,m,no,n,UNSURE,n,no,n,no
+268,children,n,The children were leaving hastily. It was evident that most of the,children were leaving the party,n,yes,n,yes,n,yes,n,yes
+269,daughters,f,The daughters were leaving hastily. It was evident that most of the,family was leaving. The,f,no,n,yes,n,yes,n,yes
+270,sons,m,The sons were leaving hastily. It was evident that most of the,men were in a hurry,n,no,m,yes,m,yes,m,yes
+271,spouses,n,The spouses were leaving hastily. It was evident that most of the,guests were angry at the,n,no,n,yes,n,no,n,no
+272,wives,f,The wives were leaving hastily. It was evident that most of the,men were not going to,f,yes,m,no,m,no,m,no
+273,husbands,m,The husbands were leaving hastily. It was evident that most of the,women were not going to,m,yes,f,no,f,no,f,no
+274,grandparents,n,"The grandparents were walking in the village. At the end of the day, one of the"," grandparents said, ""I",n,yes,n,yes,n,no,n,yes
+275,grandmothers,f,"The grandmothers were walking in the village. At the end of the day, one of the"," grandmothers said,",f,yes,f,yes,f,yes,f,yes
+276,grandfathers,m,"The grandfathers were walking in the village. At the end of the day, one of the"," grandfathers said,",m,yes,m,yes,m,yes,m,yes
+277,monarchs,n,"The monarchs were walking in the village. At the end of the day, one of the"," monarchs said, """,n,yes,n,yes,n,yes,n,yes
+278,queens,f,"The queens were walking in the village. At the end of the day, one of the"," queens said, ""I",f,yes,f,yes,f,yes,f,yes
+279,kings,m,"The kings were walking in the village. At the end of the day, one of the"," kings said, ""I",m,yes,m,yes,m,yes,m,yes
+280,siblings,n,"The siblings were walking in the village. At the end of the day, one of the",siblings was tired and said,n,no,n,yes,n,yes,n,yes
+281,sisters,f,"The sisters were walking in the village. At the end of the day, one of the"," sisters said, ""I",n,yes,f,yes,f,yes,f,yes
+282,brothers,m,"The brothers were walking in the village. At the end of the day, one of the",brothers said to the other,m,yes,m,yes,m,yes,m,yes
+283,parents-in-law,n,"The parents-in-law were walking in the village. At the end of the day, one of the",parents-in-law said to,n,yes,n,yes,n,yes,n,yes
+284,mothers-in-law,f,"The mothers-in-law were walking in the village. At the end of the day, one of the",mothers-in-law said to,f,yes,f,yes,f,yes,f,yes
+285,fathers-in-law,m,"The fathers-in-law were walking in the village. At the end of the day, one of the",fathers-in-law said to,m,yes,m,yes,m,yes,m,yes
+286,parents,n,"The parents were walking in the village. At the end of the day, one of the",parents said to the other,n,yes,n,yes,n,yes,n,yes
+287,mothers,f,"The mothers were walking in the village. At the end of the day, one of the"," mothers said, ""I",f,yes,f,yes,f,yes,f,yes
+288,fathers,m,"The fathers were walking in the village. At the end of the day, one of the"," fathers said, ""I",m,yes,m,yes,m,yes,m,yes
+289,children,n,"The children were walking in the village. At the end of the day, one of the"," children said, ""I",n,yes,n,yes,n,yes,n,yes
+290,daughters,f,"The daughters were walking in the village. At the end of the day, one of the"," daughters said, ""I",f,yes,f,yes,f,yes,f,yes
+291,sons,m,"The sons were walking in the village. At the end of the day, one of the"," sons said, ""I",m,yes,m,yes,m,yes,m,yes
+292,spouses,n,"The spouses were walking in the village. At the end of the day, one of the"," spouses said, ""I",n,yes,n,yes,n,yes,n,yes
+293,wives,f,"The wives were walking in the village. At the end of the day, one of the"," wives said, ""I",f,yes,f,yes,f,yes,f,yes
+294,husbands,m,"The husbands were walking in the village. At the end of the day, one of the"," husbands said, ""I",m,yes,m,yes,m,yes,m,yes
+295,grandparents,n,"The grandparents were entering the hospital. Given the good weather, some of the",family members decided to take,n,no,n,no,n,no,n,no
+296,grandmothers,f,"The grandmothers were entering the hospital. Given the good weather, some of the",grandmothers were entering,f,yes,f,yes,f,yes,f,yes
+297,grandfathers,m,"The grandfathers were entering the hospital. Given the good weather, some of the",grandfathers were wearing,m,yes,m,yes,m,yes,m,yes
+298,monarchs,n,"The monarchs were entering the hospital. Given the good weather, some of the",monarchs were flying around,n,yes,n,yes,n,yes,n,yes
+299,queens,f,"The queens were entering the hospital. Given the good weather, some of the",patients were being wheeled,f,no,n,UNSURE,n,no,n,no
+300,kings,m,"The kings were entering the hospital. Given the good weather, some of the",kings were wearing hats.,m,yes,m,yes,m,yes,m,yes
+301,siblings,n,"The siblings were entering the hospital. Given the good weather, some of the",staff had left the windows,n,no,n,no,n,no,n,no
+302,sisters,f,"The sisters were entering the hospital. Given the good weather, some of the",staff had placed potted,f,no,n,no,n,no,n,no
+303,brothers,m,"The brothers were entering the hospital. Given the good weather, some of the",brothers decided to take a,m,yes,m,yes,m,yes,m,yes
+304,parents-in-law,n,"The parents-in-law were entering the hospital. Given the good weather, some of the",patients were sitting on the,n,no,n,no,n,no,n,no
+305,mothers-in-law,f,"The mothers-in-law were entering the hospital. Given the good weather, some of the",nurses opened the windows to,f,no,f,no,n,no,f,no
+306,fathers-in-law,m,"The fathers-in-law were entering the hospital. Given the good weather, some of the",fathers-in-law were entering,m,yes,m,yes,m,yes,m,yes
+307,parents,n,"The parents were entering the hospital. Given the good weather, some of the",parents were sitting on the,n,yes,n,yes,n,yes,n,yes
+308,mothers,f,"The mothers were entering the hospital. Given the good weather, some of the",mothers wanted to take a,f,yes,f,yes,f,yes,f,yes
+309,fathers,m,"The fathers were entering the hospital. Given the good weather, some of the",fathers were wearing shorts and,m,yes,m,yes,m,yes,m,yes
+310,children,n,"The children were entering the hospital. Given the good weather, some of the",children were playing outside.,n,yes,n,yes,n,yes,n,yes
+311,daughters,f,"The daughters were entering the hospital. Given the good weather, some of the",daughters were wearing shorts.,f,yes,f,yes,f,yes,f,yes
+312,sons,m,"The sons were entering the hospital. Given the good weather, some of the",sons were wearing hats.,m,yes,m,yes,m,yes,m,yes
+313,spouses,n,"The spouses were entering the hospital. Given the good weather, some of the",patients were being wheeled,n,no,n,UNSURE,n,no,n,no
+314,wives,f,"The wives were entering the hospital. Given the good weather, some of the",husbands decided to take a,f,yes,m,no,m,no,m,no
+315,husbands,m,"The husbands were entering the hospital. Given the good weather, some of the",husbands were wearing only shorts,m,yes,m,yes,m,yes,m,yes
+316,grandparents,n,"The grandparents were walking across the square. Because of the heat, several of the",older people were tired.,n,yes,n,yes,n,no,n,yes
+317,grandmothers,f,"The grandmothers were walking across the square. Because of the heat, several of the",grandmothers fainted,f,yes,f,yes,f,yes,f,yes
+318,grandfathers,m,"The grandfathers were walking across the square. Because of the heat, several of the",grandfathers had taken,m,yes,m,yes,m,yes,m,yes
+319,monarchs,n,"The monarchs were walking across the square. Because of the heat, several of the",monarchs began to wilt,n,yes,n,yes,n,yes,n,yes
+320,queens,f,"The queens were walking across the square. Because of the heat, several of the",queens fainted and had,f,yes,f,yes,f,yes,f,yes
+321,kings,m,"The kings were walking across the square. Because of the heat, several of the",kings had fallen asleep.,m,yes,m,yes,m,yes,m,yes
+322,siblings,n,"The siblings were walking across the square. Because of the heat, several of the",children did what? Options,n,no,n,yes,n,no,n,no
+323,sisters,f,"The sisters were walking across the square. Because of the heat, several of the",girls had taken off their,f,yes,f,yes,f,yes,f,yes
+324,brothers,m,"The brothers were walking across the square. Because of the heat, several of the",men had removed their coats,m,yes,m,yes,m,yes,m,yes
+325,parents-in-law,n,"The parents-in-law were walking across the square. Because of the heat, several of the",trees had been sprayed with,n,no,NULL,no,NULL,no,NULL,no
+326,mothers-in-law,f,"The mothers-in-law were walking across the square. Because of the heat, several of the",women had tied their head,f,yes,f,yes,f,yes,f,yes
+327,fathers-in-law,m,"The fathers-in-law were walking across the square. Because of the heat, several of the",men were barefooted,m,yes,m,yes,m,yes,m,yes
+328,parents,n,"The parents were walking across the square. Because of the heat, several of the",children were carried on their,n,yes,n,UNSURE,n,no,n,NULL
+329,mothers,f,"The mothers were walking across the square. Because of the heat, several of the",mothers were wearing hats.,f,yes,f,yes,f,yes,f,yes
+330,fathers,m,"The fathers were walking across the square. Because of the heat, several of the",men had taken off their,m,yes,m,yes,m,yes,m,yes
+331,children,n,"The children were walking across the square. Because of the heat, several of the"," children were ________.
+",n,yes,n,yes,n,yes,n,yes
+332,daughters,f,"The daughters were walking across the square. Because of the heat, several of the",girls took off their shoes,f,yes,f,yes,f,yes,f,yes
+333,sons,m,"The sons were walking across the square. Because of the heat, several of the",boys were carrying watermel,m,yes,m,yes,m,yes,m,yes
+334,spouses,n,"The spouses were walking across the square. Because of the heat, several of the",men were wearing only shorts,n,no,m,yes,n,yes,n,yes
+335,wives,f,"The wives were walking across the square. Because of the heat, several of the",women had taken off their,f,yes,f,yes,f,yes,f,yes
+336,husbands,m,"The husbands were walking across the square. Because of the heat, several of the",men had taken off their,m,yes,m,yes,m,yes,m,yes
+337,grandparents,n,"The grandparents were crossing the village. After a while, the majority of the",children in the village came,n,no,n & NA,yes,n,no,n,no
+338,grandmothers,f,"The grandmothers were crossing the village. After a while, the majority of the",grandmothers were joined,f,yes,f,yes,f,yes,f,yes
+339,grandfathers,m,"The grandfathers were crossing the village. After a while, the majority of the",grandfathers were joined,m,yes,m,yes,m,yes,m,yes
+340,monarchs,n,"The monarchs were crossing the village. After a while, the majority of the",monarchs had crossed the,n,yes,n,yes,n,yes,n,yes
+341,queens,f,"The queens were crossing the village. After a while, the majority of the"," queens entered the castle,",f,yes,f,yes,f,yes,f,yes
+342,kings,m,"The kings were crossing the village. After a while, the majority of the",villagers were able to see,m,no,n,yes,n,no,n,no
+343,siblings,n,"The siblings were crossing the village. After a while, the majority of the",children were tired and gr,n,no,n,yes,n,yes,n,yes
+344,sisters,f,"The sisters were crossing the village. After a while, the majority of the",people who were crossing the,f,no,n,yes,n,no,n,no
+345,brothers,m,"The brothers were crossing the village. After a while, the majority of the",people who were in the,m,no,n,UNSURE,n,no,n,no
+346,parents-in-law,n,"The parents-in-law were crossing the village. After a while, the majority of the",villagers came out to watch,n,no,n,no,n,no,n,no
+347,mothers-in-law,f,"The mothers-in-law were crossing the village. After a while, the majority of the",women stopped and sat down,f,yes,f,yes,f,yes,f,yes
+348,fathers-in-law,m,"The fathers-in-law were crossing the village. After a while, the majority of the",villagers realized that the fathers,m,no,n & m,yes,n,no,NULL,no
+349,parents,n,"The parents were crossing the village. After a while, the majority of the",villagers had gathered around them,n,no,n,yes,n,no,n,no
+350,mothers,f,"The mothers were crossing the village. After a while, the majority of the",mothers were walking on the,f,yes,f,yes,f,yes,f,yes
+351,fathers,m,"The fathers were crossing the village. After a while, the majority of the",fathers were joined by their,m,yes,m,yes,m,yes,m,yes
+352,children,n,"The children were crossing the village. After a while, the majority of the",children were tired and sat,n,yes,n,yes,n,yes,n,yes
+353,daughters,f,"The daughters were crossing the village. After a while, the majority of the",daughters were in the village,f,yes,f,yes,f,yes,f,yes
+354,sons,m,"The sons were crossing the village. After a while, the majority of the",people in the village were,m,no,n,UNSURE,n,no,n,no
+355,spouses,n,"The spouses were crossing the village. After a while, the majority of the",people in the village were,n,no,n,UNSURE,n,no,n,no
+356,wives,f,"The wives were crossing the village. After a while, the majority of the",wives were crossing the village,f,yes,f,yes,f,yes,f,yes
+357,husbands,m,"The husbands were crossing the village. After a while, the majority of the",husbands were tired. The,m,yes,m,yes,m,yes,m,yes
+358,grandparents,n,"The grandparents were leaving the hotel. With good weather expected, some of the",group were going to the,n,no,n,yes,n,yes,n,yes
+359,grandmothers,f,"The grandmothers were leaving the hotel. With good weather expected, some of the",women decided to go to,f,yes,f,yes,f,yes,f,yes
+360,grandfathers,m,"The grandfathers were leaving the hotel. With good weather expected, some of the",men decided to go fishing,m,yes,m,yes,m,yes,m,yes
+361,monarchs,n,"The monarchs were leaving the hotel. With good weather expected, some of the",monarchs were released.,n,yes,n,yes,n,yes,n,yes
+362,queens,f,"The queens were leaving the hotel. With good weather expected, some of the",queens were wearing hats.,f,yes,f,yes,f,yes,f,yes
+363,kings,m,"The kings were leaving the hotel. With good weather expected, some of the",players were taking advantage of,m,no,n,no,n,no,n,no
+364,siblings,n,"The siblings were leaving the hotel. With good weather expected, some of the",group were going to the,n,no,n,yes,n,yes,n,yes
+365,sisters,f,"The sisters were leaving the hotel. With good weather expected, some of the",sisters decided to go to,f,yes,f,yes,f,yes,f,yes
+366,brothers,m,"The brothers were leaving the hotel. With good weather expected, some of the",brothers were going to the,m,yes,m,yes,m,yes,m,yes
+367,parents-in-law,n,"The parents-in-law were leaving the hotel. With good weather expected, some of the",guests were going to the,n,no,n,UNSURE,n,no,n,no
+368,mothers-in-law,f,"The mothers-in-law were leaving the hotel. With good weather expected, some of the",mothers-in-law were going,f,yes,f,yes,f,yes,f,yes
+369,fathers-in-law,m,"The fathers-in-law were leaving the hotel. With good weather expected, some of the",fathers-in-law were going,m,yes,m,yes,m,yes,m,yes
+370,parents,n,"The parents were leaving the hotel. With good weather expected, some of the",children were going to the,n,no,n,no,n,no,n,no
+371,mothers,f,"The mothers were leaving the hotel. With good weather expected, some of the",mothers were going to the,f,yes,f,yes,f,yes,f,yes
+372,fathers,m,"The fathers were leaving the hotel. With good weather expected, some of the",fathers were going to the,m,yes,m,yes,m,yes,m,yes
+373,children,n,"The children were leaving the hotel. With good weather expected, some of the",children were playing in the,n,yes,n,yes,n,yes,n,yes
+374,daughters,f,"The daughters were leaving the hotel. With good weather expected, some of the",girls were going to the,f,yes,f,yes,f,yes,f,yes
+375,sons,m,"The sons were leaving the hotel. With good weather expected, some of the",boys were going to the,m,yes,m,yes,m,yes,m,yes
+376,spouses,n,"The spouses were leaving the hotel. With good weather expected, some of the",other guests were leaving as,n,no,n,no,n,no,n,no
+377,wives,f,"The wives were leaving the hotel. With good weather expected, some of the",women were wearing summer dresses,f,yes,f,yes,f,yes,f,yes
+378,husbands,m,"The husbands were leaving the hotel. With good weather expected, some of the",men were going to play,m,yes,m,yes,m,yes,m,yes
+379,grandparents,n,The grandparents were leaving the castle. It was noticeable that one of the,grandfathers was leaving,n,yes,m,yes,m,yes,m,yes
+380,grandmothers,f,The grandmothers were leaving the castle. It was noticeable that one of the,grandmothers was a,f,yes,f,yes,f,yes,f,yes
+381,grandfathers,m,The grandfathers were leaving the castle. It was noticeable that one of the,grandfathers was a,m,yes,m,yes,m,yes,m,yes
+382,monarchs,n,The monarchs were leaving the castle. It was noticeable that one of the,monarchs was a bit,n,yes,n,yes,n,yes,n,yes
+383,queens,f,The queens were leaving the castle. It was noticeable that one of the,queens was not happy with,f,yes,f,yes,f,yes,f,yes
+384,kings,m,The kings were leaving the castle. It was noticeable that one of the,kings was not happy about,m,yes,m,yes,m,yes,m,yes
+385,siblings,n,The siblings were leaving the castle. It was noticeable that one of the," siblings was older, as",n,yes,n,yes,n,yes,n,yes
+386,sisters,f,The sisters were leaving the castle. It was noticeable that one of the,sisters was carrying a large,f,yes,f,yes,f,yes,f,yes
+387,brothers,m,The brothers were leaving the castle. It was noticeable that one of the,brothers was older than the,m,yes,m,yes,m,yes,m,yes
+388,parents-in-law,n,The parents-in-law were leaving the castle. It was noticeable that one of the,two was not very happy,n,yes,n,yes,n,yes,n,yes
+389,mothers-in-law,f,The mothers-in-law were leaving the castle. It was noticeable that one of the,two was a little more,f,yes,NULL,yes,n,yes,NULL,yes
+390,fathers-in-law,m,The fathers-in-law were leaving the castle. It was noticeable that one of the,two was a little behind,m,yes,NULL,yes,n,yes,NULL,yes
+391,parents,n,The parents were leaving the castle. It was noticeable that one of the,parents was a woman.,n,yes,n & f,yes,n,yes,n,yes
+392,mothers,f,The mothers were leaving the castle. It was noticeable that one of the,mothers was carrying a baby,f,yes,f & n,yes,f,yes,f,yes
+393,fathers,m,The fathers were leaving the castle. It was noticeable that one of the,fathers was a little drunk,m,yes,m,yes,m,yes,m,yes
+394,children,n,The children were leaving the castle. It was noticeable that one of the,children was carrying a large,n,yes,n,yes,n,yes,n,yes
+395,daughters,f,The daughters were leaving the castle. It was noticeable that one of the,daughters was carrying a large,f,yes,f,yes,f,yes,f,yes
+396,sons,m,The sons were leaving the castle. It was noticeable that one of the,sons was carrying a bag,m,yes,m,yes,m,yes,m,yes
+397,spouses,n,The spouses were leaving the castle. It was noticeable that one of the,spouses was very unhappy.,n,yes,n,yes,n,yes,n,yes
+398,wives,f,The wives were leaving the castle. It was noticeable that one of the,wives was not leaving with,f,yes,f,yes,f,yes,f,yes
+399,husbands,m,The husbands were leaving the castle. It was noticeable that one of the,husbands was not there.,m,yes,m,yes,m,yes,m,yes
+400,grandparents,n,"The grandparents were crossing the park. After a while, several of the",children who were playing in,n,no,n,no,n,no,n,no
+401,grandmothers,f,"The grandmothers were crossing the park. After a while, several of the",grandmothers had already,f,yes,f,yes,f,yes,f,yes
+402,grandfathers,m,"The grandfathers were crossing the park. After a while, several of the",grandfathers had passed,m,yes,m,yes,m,yes,m,yes
+403,monarchs,n,"The monarchs were crossing the park. After a while, several of the",monarchs were seen to,n,yes,n,yes,n,yes,n,yes
+404,queens,f,"The queens were crossing the park. After a while, several of the",queens passed a tree.,f,yes,f,yes,f,yes,f,yes
+405,kings,m,"The kings were crossing the park. After a while, several of the",kings were tired and stopped,m,yes,m,yes,m,yes,m,yes
+406,siblings,n,"The siblings were crossing the park. After a while, several of the",children ran ahead. Two,n,no,n,UNSURE,n,yes,n,NULL
+407,sisters,f,"The sisters were crossing the park. After a while, several of the",girls got tired and went,f,yes,f,yes,f,yes,f,yes
+408,brothers,m,"The brothers were crossing the park. After a while, several of the",brothers were walking. How,m,yes,m,yes,m,yes,m,yes
+409,parents-in-law,n,"The parents-in-law were crossing the park. After a while, several of the",children who were playing in,n,no,n,no,n,no,n,no
+410,mothers-in-law,f,"The mothers-in-law were crossing the park. After a while, several of the",mothers-in-law were walking,f,yes,f,yes,f,yes,f,yes
+411,fathers-in-law,m,"The fathers-in-law were crossing the park. After a while, several of the",fathers-in-law saw each,m,yes,m,yes,m,yes,m,yes
+412,parents,n,"The parents were crossing the park. After a while, several of the",children began to complain about,n,no,n,no,n,no,n,no
+413,mothers,f,"The mothers were crossing the park. After a while, several of the",mothers were talking to each,f,yes,f,yes,f,yes,f,yes
+414,fathers,m,"The fathers were crossing the park. After a while, several of the",fathers were seen _______,m,yes,m,yes,m,yes,m,yes
+415,children,n,"The children were crossing the park. After a while, several of the",children were missing. The,n,yes,n,yes,n,yes,n,yes
+416,daughters,f,"The daughters were crossing the park. After a while, several of the",daughters got tired and stopped,f,yes,f,yes,f,yes,f,yes
+417,sons,m,"The sons were crossing the park. After a while, several of the",boys were seen to be,m,yes,m,yes,m,yes,m,yes
+418,spouses,n,"The spouses were crossing the park. After a while, several of the",spouses were crossing the park,n,yes,n,yes,n,yes,n,yes
+419,wives,f,"The wives were crossing the park. After a while, several of the",wives were seen to be,f,yes,f,yes,f,yes,f,yes
+420,husbands,m,"The husbands were crossing the park. After a while, several of the",husbands were crossing the park,m,yes,m,yes,m,yes,m,yes
+421,grandparents,n,The grandparents were going to the hospital. It was evident that a few of the,family members were going to,n,no,n,UNSURE,n,no,n,no
+422,grandmothers,f,The grandmothers were going to the hospital. It was evident that a few of the,grandmothers were going,f,yes,f,yes,f,yes,f,yes
+423,grandfathers,m,The grandfathers were going to the hospital. It was evident that a few of the,grandfathers were going,m,yes,m,yes,m,yes,m,yes
+424,monarchs,n,The monarchs were going to the hospital. It was evident that a few of the,monarchs were in pain,n,no,n,yes,n,yes,n,yes
+425,queens,f,The queens were going to the hospital. It was evident that a few of the,queens were going to the,f,yes,f,yes,f,yes,f,yes
+426,kings,m,The kings were going to the hospital. It was evident that a few of the,kings were going to the,m,yes,m,yes,m,yes,m,yes
+427,siblings,n,The siblings were going to the hospital. It was evident that a few of the,siblings were there for the,n,yes,n,yes,n,yes,n,yes
+428,sisters,f,The sisters were going to the hospital. It was evident that a few of the,sisters were there to visit,f,yes,f,yes,f,yes,f,yes
+429,brothers,m,The brothers were going to the hospital. It was evident that a few of the,brothers needed to lose weight,m,yes,m,yes,m,yes,m,yes
+430,parents-in-law,n,The parents-in-law were going to the hospital. It was evident that a few of the,children were going to be,n,yes,n,no,n,no,n,no
+431,mothers-in-law,f,The mothers-in-law were going to the hospital. It was evident that a few of the,mothers-in-law were going,f,yes,f,yes,f,yes,f,yes
+432,fathers-in-law,m,The fathers-in-law were going to the hospital. It was evident that a few of the,fathers-in-law were going,m,yes,m,yes,m,yes,m,yes
+433,parents,n,The parents were going to the hospital. It was evident that a few of the,children had been crying.,n,yes,n,no,n,no,n,no
+434,mothers,f,The mothers were going to the hospital. It was evident that a few of the,mothers were not going to,f,yes,f,yes,f,yes,f,yes
+435,fathers,m,The fathers were going to the hospital. It was evident that a few of the,fathers were not going to,m,yes,m,yes,m,yes,m,yes
+436,children,n,The children were going to the hospital. It was evident that a few of the,children were what? Options,n,yes,n,yes,n,yes,n,yes
+437,daughters,f,The daughters were going to the hospital. It was evident that a few of the,daughters were visiting their mother,f,yes,f,yes,f,yes,f,yes
+438,sons,m,The sons were going to the hospital. It was evident that a few of the,sons were visiting their mothers,m,yes,m & f,yes,m,yes,m,yes
+439,spouses,n,The spouses were going to the hospital. It was evident that a few of the,patients were going to die,n,no,n,UNSURE,n,no,n,no
+440,wives,f,The wives were going to the hospital. It was evident that a few of the,husbands were going to be,f,yes,m,no,f,no,f,no
+441,husbands,m,The husbands were going to the hospital. It was evident that a few of the,wives were pregnant.,m,yes,f,no,m,no,m,no
+442,grandparents,n,"The grandparents were coming back from work. After a while, a few of the",children came out of the,n,no,n,no,n,no,n,no
+443,grandmothers,f,"The grandmothers were coming back from work. After a while, a few of the",grandmothers were coming,f,yes,f,yes,f,yes,f,yes
+444,grandfathers,m,"The grandfathers were coming back from work. After a while, a few of the",grandfathers were playing,m,yes,m,yes,m,yes,m,yes
+445,monarchs,n,"The monarchs were coming back from work. After a while, a few of the",workers started to fly back,n,no,n,no,n,no,n,no
+446,queens,f,"The queens were coming back from work. After a while, a few of the",workers were coming back from,f,no,n,UNSURE,n,no,n,no
+447,kings,m,"The kings were coming back from work. After a while, a few of the",kings were coming back from,m,yes,m,yes,m,yes,m,yes
+448,siblings,n,"The siblings were coming back from work. After a while, a few of the",siblings were left behind.,n,yes,n,yes,n,yes,n,yes
+449,sisters,f,"The sisters were coming back from work. After a while, a few of the",sisters were talking about the,f,yes,f,yes,f,yes,f,yes
+450,brothers,m,"The brothers were coming back from work. After a while, a few of the",brothers were left behind.,m,yes,m,yes,m,yes,m,yes
+451,parents-in-law,n,"The parents-in-law were coming back from work. After a while, a few of the",children came back from school,n,yes,n,no,n,no,n,no
+452,mothers-in-law,f,"The mothers-in-law were coming back from work. After a while, a few of the",mothers-in-law went home,f,yes,f,yes,f,yes,f,yes
+453,fathers-in-law,m,"The fathers-in-law were coming back from work. After a while, a few of the",fathers-in-law were coming,m,yes,m,yes,m,yes,m,yes
+454,parents,n,"The parents were coming back from work. After a while, a few of the",children were playing in the,n,yes,n,no,n,no,n,no
+455,mothers,f,"The mothers were coming back from work. After a while, a few of the",mothers were coming back from,f,yes,f,yes,f,yes,f,yes
+456,fathers,m,"The fathers were coming back from work. After a while, a few of the",fathers were coming back from,m,yes,m,yes,m,yes,m,yes
+457,children,n,"The children were coming back from work. After a while, a few of the",children came back from work,n,yes,n,yes,n,yes,n,yes
+458,daughters,f,"The daughters were coming back from work. After a while, a few of the",sons came back from work,f,no,m,no,n,no,NULL,no
+459,sons,m,"The sons were coming back from work. After a while, a few of the",sons came back from work,m,yes,m,yes,m,yes,m,yes
+460,spouses,n,"The spouses were coming back from work. After a while, a few of the",spouses were having an affair,n,yes,n,yes,n,yes,n,yes
+461,wives,f,"The wives were coming back from work. After a while, a few of the",husbands came back from work,f,yes,m,no,m,no,m,no
+462,husbands,m,"The husbands were coming back from work. After a while, a few of the",wives were cooking. The,m,yes,f,no,f,no,f,no
+463,grandparents,n,"The grandparents were arguing loudly. After a while, some of the",neighbors came out to see,n,no,n,no,n,no,n,no
+464,grandmothers,f,"The grandmothers were arguing loudly. After a while, some of the",other people in the room,f,no,n,no,n,no,n,no
+465,grandfathers,m,"The grandfathers were arguing loudly. After a while, some of the",grandfathers were arguing,m,yes,m,yes,m,yes,m,yes
+466,monarchs,n,"The monarchs were arguing loudly. After a while, some of the",people in the room began,n,no,n,no,n,yes,n,no
+467,queens,f,"The queens were arguing loudly. After a while, some of the",queens left. There were,f,yes,f,yes,f,yes,f,yes
+468,kings,m,"The kings were arguing loudly. After a while, some of the",people in the room began,m,no,n,no,n,yes,n,no
+469,siblings,n,"The siblings were arguing loudly. After a while, some of the",siblings were angry and left,n,yes,n,yes,n,yes,n,yes
+470,sisters,f,"The sisters were arguing loudly. After a while, some of the",people in the room began,f,no,n,no,n,yes,n,no
+471,brothers,m,"The brothers were arguing loudly. After a while, some of the",people in the room got,m,no,n,no,n,yes,n,no
+472,parents-in-law,n,"The parents-in-law were arguing loudly. After a while, some of the",guests began to leave.,n,no,n,no,n,no,n,no
+473,mothers-in-law,f,"The mothers-in-law were arguing loudly. After a while, some of the",guests left. The rest,f,no,n,no,n,no,n,no
+474,fathers-in-law,m,"The fathers-in-law were arguing loudly. After a while, some of the",guests left. The rest,m,no,n,no,n,no,n,no
+475,parents,n,"The parents were arguing loudly. After a while, some of the",neighbors came out to see,n,no,n,no,n,no,n,no
+476,mothers,f,"The mothers were arguing loudly. After a while, some of the",other mothers began to leave,f,yes,f,yes,f,no,f,yes
+477,fathers,m,"The fathers were arguing loudly. After a while, some of the",other people in the restaurant,m,no,n,no,n,no,n,no
+478,children,n,"The children were arguing loudly. After a while, some of the",children were crying. The,n,yes,n,yes,n,yes,n,yes
+479,daughters,f,"The daughters were arguing loudly. After a while, some of the",other people in the restaurant,f,no,n,no,n,no,n,no
+480,sons,m,"The sons were arguing loudly. After a while, some of the",neighbors came out to see,m,no,n,no,n,no,n,no
+481,spouses,n,"The spouses were arguing loudly. After a while, some of the",neighbors came out to see,n,no,n,no,n,no,n,no
+482,wives,f,"The wives were arguing loudly. After a while, some of the",men left the room.,f,no,m,no,m,no,m,no
+483,husbands,m,"The husbands were arguing loudly. After a while, some of the",other guests began to leave,m,no,n,no,n,no,n,no
+484,grandparents,n,"The grandparents were getting on the bus. Given the sun, several of the",people on the bus were,n,no,n,yes,n,no,n,no
+485,grandmothers,f,"The grandmothers were getting on the bus. Given the sun, several of the",grandmothers were wearing,f,yes,f,yes,f,yes,f,yes
+486,grandfathers,m,"The grandfathers were getting on the bus. Given the sun, several of the",grandfathers were wearing,m,yes,m,yes,m,yes,m,yes
+487,monarchs,n,"The monarchs were getting on the bus. Given the sun, several of the",monarchs were flying.,n,yes,n,yes,n,yes,n,yes
+488,queens,f,"The queens were getting on the bus. Given the sun, several of the",queens were wearing sunglasses.,f,yes,f,yes,f,yes,f,yes
+489,kings,m,"The kings were getting on the bus. Given the sun, several of the",kings were wearing sunglasses.,m,yes,m,yes,m,yes,m,yes
+490,siblings,n,"The siblings were getting on the bus. Given the sun, several of the",siblings were wearing sunglasses.,n,yes,n,yes,n,yes,n,yes
+491,sisters,f,"The sisters were getting on the bus. Given the sun, several of the",sisters wore hats. Given,f,yes,f,yes,f,yes,f,yes
+492,brothers,m,"The brothers were getting on the bus. Given the sun, several of the",brothers had to squint,m,yes,m,yes,m,yes,m,yes
+493,parents-in-law,n,"The parents-in-law were getting on the bus. Given the sun, several of the",children were wearing sunglasses.,n,yes,n,no,n,no,n,no
+494,mothers-in-law,f,"The mothers-in-law were getting on the bus. Given the sun, several of the",mothers-in-law were wearing,f,yes,f,yes,f,yes,f,yes
+495,fathers-in-law,m,"The fathers-in-law were getting on the bus. Given the sun, several of the",fathers-in-law were wearing,m,yes,m,yes,m,yes,m,yes
+496,parents,n,"The parents were getting on the bus. Given the sun, several of the",children were crying. The,n,yes,n,no,n,no,n,no
+497,mothers,f,"The mothers were getting on the bus. Given the sun, several of the",mothers were wearing sunglasses.,f,yes,f,yes,f,yes,f,yes
+498,fathers,m,"The fathers were getting on the bus. Given the sun, several of the",fathers were wearing hats.,m,yes,m,yes,m,yes,m,yes
+499,children,n,"The children were getting on the bus. Given the sun, several of the",children were wearing sunglasses.,n,yes,n,yes,n,yes,n,yes
+500,daughters,f,"The daughters were getting on the bus. Given the sun, several of the",girls were wearing sunglasses.,f,yes,f,yes,f,yes,f,yes
+501,sons,m,"The sons were getting on the bus. Given the sun, several of the",boys were wearing sunglasses.,m,yes,m,yes,m,yes,m,yes
+502,spouses,n,"The spouses were getting on the bus. Given the sun, several of the",spouses were wearing sunglasses.,n,yes,n,yes,n,yes,n,yes
+503,wives,f,"The wives were getting on the bus. Given the sun, several of the",women were wearing sunglasses.,f,yes,f,yes,f,yes,f,yes
+504,husbands,m,"The husbands were getting on the bus. Given the sun, several of the",husbands were wearing sunglasses.,m,yes,m,yes,m,yes,m,yes
+505,grandparents,n,"The grandparents were getting on the bus. Given the good weather, a few of the",other passengers opened their windows,n,no,n,UNSURE,n,no,n,no
+506,grandmothers,f,"The grandmothers were getting on the bus. Given the good weather, a few of the",grandmothers decided to,f,yes,f,yes,f,yes,f,yes
+507,grandfathers,m,"The grandfathers were getting on the bus. Given the good weather, a few of the",grandfathers decided to,m,yes,m,yes,m,yes,m,yes
+508,monarchs,n,"The monarchs were getting on the bus. Given the good weather, a few of the",monarchs were sitting on,n,yes,n,yes,n,yes,n,yes
+509,queens,f,"The queens were getting on the bus. Given the good weather, a few of the",queens decided to ride the,f,yes,f,yes,f,yes,f,yes
+510,kings,m,"The kings were getting on the bus. Given the good weather, a few of the",kings decided to stand on,m,yes,m,yes,m,yes,m,yes
+511,siblings,n,"The siblings were getting on the bus. Given the good weather, a few of the",siblings decided to walk to,n,yes,n,yes,n,yes,n,yes
+512,sisters,f,"The sisters were getting on the bus. Given the good weather, a few of the",other people on the bus,f,no,n,yes,n,no,n,no
+513,brothers,m,"The brothers were getting on the bus. Given the good weather, a few of the",brothers decided to ride their,m,yes,m,yes,m,yes,m,yes
+514,parents-in-law,n,"The parents-in-law were getting on the bus. Given the good weather, a few of the",children had gone to the,n,yes,n,no,n,no,n,no
+515,mothers-in-law,f,"The mothers-in-law were getting on the bus. Given the good weather, a few of the",mothers-in-law decided to,f,yes,f,yes,f,yes,f,yes
+516,fathers-in-law,m,"The fathers-in-law were getting on the bus. Given the good weather, a few of the",fathers-in-law decided to,m,yes,m,yes,m,yes,m,yes
+517,parents,n,"The parents were getting on the bus. Given the good weather, a few of the",children were still playing outside,n,yes,n,no,n,no,n,no
+518,mothers,f,"The mothers were getting on the bus. Given the good weather, a few of the",mothers had decided to take,f,yes,f,yes,f,yes,f,yes
+519,fathers,m,"The fathers were getting on the bus. Given the good weather, a few of the",fathers decided to walk to,m,yes,m,yes,m,yes,m,yes
+520,children,n,"The children were getting on the bus. Given the good weather, a few of the",children were wearing shorts.,n,yes,n,yes,n,yes,n,yes
+521,daughters,f,"The daughters were getting on the bus. Given the good weather, a few of the",girls were wearing shorts.,f,yes,f,yes,f,yes,f,yes
+522,sons,m,"The sons were getting on the bus. Given the good weather, a few of the",boys were playing in the,m,yes,m,yes,m,yes,m,yes
+523,spouses,n,"The spouses were getting on the bus. Given the good weather, a few of the",spouses decided to ride bikes,n,yes,n,yes,n,yes,n,yes
+524,wives,f,"The wives were getting on the bus. Given the good weather, a few of the",children were allowed to go,f,no,n,no,n,no,n,no
+525,husbands,m,"The husbands were getting on the bus. Given the good weather, a few of the",husbands decided to go to,m,yes,m,yes,m,yes,m,yes
+526,grandparents,n,"The grandparents were walking in the city. After a very long day, most of the",time spent on the bus,n,no,NULL,no,NULL,no,NULL,no
+527,grandmothers,f,"The grandmothers were walking in the city. After a very long day, most of the",grandmothers were tired,f,yes,f,yes,f,yes,f,yes
+528,grandfathers,m,"The grandfathers were walking in the city. After a very long day, most of the"," people had gone home,",m,no,n,no,n,no,n,no
+529,monarchs,n,"The monarchs were walking in the city. After a very long day, most of the",monarchs were tired.,n,yes,n,yes,n,yes,n,yes
+530,queens,f,"The queens were walking in the city. After a very long day, most of the",queens were tired and went,f,yes,f,yes,f,yes,f,yes
+531,kings,m,"The kings were walking in the city. After a very long day, most of the",people were tired and wanted,m,no,n,no,n,no,n,no
+532,siblings,n,"The siblings were walking in the city. After a very long day, most of the",people were going home.,n,no,n,no,n,no,n,no
+533,sisters,f,"The sisters were walking in the city. After a very long day, most of the",people left the city.,f,no,n,no,n,no,n,no
+534,brothers,m,"The brothers were walking in the city. After a very long day, most of the",city was behind them.,m,no,NA & n,yes,NULL,no,NULL,no
+535,parents-in-law,n,"The parents-in-law were walking in the city. After a very long day, most of the",people had left the city,n,no,n,yes,n,no,n,no
+536,mothers-in-law,f,"The mothers-in-law were walking in the city. After a very long day, most of the",women were tired. But,f,yes,f,yes,f,yes,f,yes
+537,fathers-in-law,m,"The fathers-in-law were walking in the city. After a very long day, most of the",people had already gone home,m,no,n,no,n,no,n,no
+538,parents,n,"The parents were walking in the city. After a very long day, most of the",parents were tired and hungry,n,yes,n,yes,n,yes,n,yes
+539,mothers,f,"The mothers were walking in the city. After a very long day, most of the",mothers were tired and hungry,f,yes,f,yes,f,yes,f,yes
+540,fathers,m,"The fathers were walking in the city. After a very long day, most of the",fathers were tired and hungry,m,yes,m,yes,m,yes,m,yes
+541,children,n,"The children were walking in the city. After a very long day, most of the",children were tired and hungry,n,yes,n,yes,n,yes,n,yes
+542,daughters,f,"The daughters were walking in the city. After a very long day, most of the",people were going home.,f,no,n,no,n,no,n,no
+543,sons,m,"The sons were walking in the city. After a very long day, most of the",people were going home.,m,no,n,no,n,no,n,no
+544,spouses,n,"The spouses were walking in the city. After a very long day, most of the",people were doing what?,n,no,n,no,n,yes,n,no
+545,wives,f,"The wives were walking in the city. After a very long day, most of the"," wives were tired, but",f,yes,f,yes,f,yes,f,yes
+546,husbands,m,"The husbands were walking in the city. After a very long day, most of the",husbands were tired and fell,m,yes,m,yes,m,yes,m,yes
+547,grandparents,n,The grandparents were already at work. It was evident that several of the,children had been left alone,n,no,n,no,n,no,n,no
+548,grandmothers,f,The grandmothers were already at work. It was evident that several of the,younger ones had been up,f,yes,n,yes,n,yes,n,yes
+549,grandfathers,m,The grandfathers were already at work. It was evident that several of the,younger men were also at,m,yes,m,no,m,yes,m,yes
+550,monarchs,n,The monarchs were already at work. It was evident that several of the,workers had been killed by,n,no,n,no,n,no,n,no
+551,queens,f,The queens were already at work. It was evident that several of the,colonies had been established for,f,no,NULL,no,NULL,no,NULL,no
+552,kings,m,The kings were already at work. It was evident that several of the,smaller ones had been at,m,no,n,UNSURE,n,yes,n,NULL
+553,siblings,n,The siblings were already at work. It was evident that several of the,workers had been there for,n,no,n,no,n,no,n,no
+554,sisters,f,The sisters were already at work. It was evident that several of the," girls had been crying,",f,yes,f,yes,f,yes,f,yes
+555,brothers,m,The brothers were already at work. It was evident that several of the,men had been there all,m,yes,m,UNSURE,m,yes,m,yes
+556,parents-in-law,n,The parents-in-law were already at work. It was evident that several of the,guests had been there for,n,no,n,no,n,no,n,no
+557,mothers-in-law,f,The mothers-in-law were already at work. It was evident that several of the,younger women had been we,f,yes,f,NULL,f,yes,f,yes
+558,fathers-in-law,m,The fathers-in-law were already at work. It was evident that several of the,men had been up all,m,yes,m,yes,m,yes,m,yes
+559,parents,n,The parents were already at work. It was evident that several of the,children had not been to,n,yes,n,no,n,no,n,no
+560,mothers,f,The mothers were already at work. It was evident that several of the,children had been sent to,f,yes,n,no,n,no,n,no
+561,fathers,m,The fathers were already at work. It was evident that several of the,men had been there all,m,yes,m,yes,m,yes,m,yes
+562,children,n,The children were already at work. It was evident that several of the,smaller ones had been at,n,yes,n,yes,n,yes,n,yes
+563,daughters,f,The daughters were already at work. It was evident that several of the,younger ones had been crying,f,yes,n,UNSURE,n,yes,n,yes
+564,sons,m,The sons were already at work. It was evident that several of the,younger ones had been up,m,yes,n,UNSURE,n,yes,n,yes
+565,spouses,n,The spouses were already at work. It was evident that several of the,men had been summoned from,n,yes,m,no,m,yes,m,yes
+566,wives,f,The wives were already at work. It was evident that several of the,men had been killed before,f,no,m,no,m,no,m,no
+567,husbands,m,The husbands were already at work. It was evident that several of the,wives had been up for,m,yes,f,no,f,no,f,no
+568,grandparents,n,The grandparents were entering the building. It was obvious that the majority of the,building's tenants were what,n,yes,n,no,n,no,n,no
+569,grandmothers,f,The grandmothers were entering the building. It was obvious that the majority of the,grandmothers were not,f,yes,f,yes,f,yes,f,yes
+570,grandfathers,m,The grandfathers were entering the building. It was obvious that the majority of the,people there were there for,m,no,n,no,n,no,n,no
+571,monarchs,n,The monarchs were entering the building. It was obvious that the majority of the,people there were what the,n,no,n,no,n,no,n,no
+572,queens,f,The queens were entering the building. It was obvious that the majority of the,people there were there to,f,no,n,no,n,no,n,no
+573,kings,m,The kings were entering the building. It was obvious that the majority of the,people there were not kings,m,no,n & m,yes,n,no,NULL,no
+574,siblings,n,The siblings were entering the building. It was obvious that the majority of the,people were there for the,n,no,n,no,n,no,n,no
+575,sisters,f,The sisters were entering the building. It was obvious that the majority of the,people were there for the,f,no,n,no,n,no,n,no
+576,brothers,m,The brothers were entering the building. It was obvious that the majority of the,people there were there for,m,no,n,no,n,no,n,no
+577,parents-in-law,n,The parents-in-law were entering the building. It was obvious that the majority of the,people in the building were,n,no,n,no,n,no,n,no
+578,mothers-in-law,f,The mothers-in-law were entering the building. It was obvious that the majority of the,mothers-in-law were not,f,yes,f,yes,f,yes,f,yes
+579,fathers-in-law,m,The fathers-in-law were entering the building. It was obvious that the majority of the,fathers-in-law were not,m,yes,m,yes,m,yes,m,yes
+580,parents,n,The parents were entering the building. It was obvious that the majority of the,people in the room were,n,no,n,no,n,no,n,no
+581,mothers,f,The mothers were entering the building. It was obvious that the majority of the,mothers were not there for,f,yes,f,yes,f,yes,f,yes
+582,fathers,m,The fathers were entering the building. It was obvious that the majority of the,fathers were not very happy,m,yes,m,yes,m,yes,m,yes
+583,children,n,The children were entering the building. It was obvious that the majority of the,children were there for the,n,yes,n,yes,n,yes,n,yes
+584,daughters,f,The daughters were entering the building. It was obvious that the majority of the,people in the building were,f,no,n,no,n,no,n,no
+585,sons,m,The sons were entering the building. It was obvious that the majority of the,people there were there for,m,no,n,no,n,no,n,no
+586,spouses,n,The spouses were entering the building. It was obvious that the majority of the,people there were there for,n,no,n,no,n,yes,n,no
+587,wives,f,The wives were entering the building. It was obvious that the majority of the,wives were not happy about,f,yes,f,yes,f,yes,f,yes
+588,husbands,m,The husbands were entering the building. It was obvious that the majority of the,people there were couples.,m,no,n,no,n,no,n,no
+589,grandparents,n,"The grandparents were already at the station. After a very long day, the majority of the",family had arrived. The,n,no,n,no,n,no,n,no
+590,grandmothers,f,"The grandmothers were already at the station. After a very long day, the majority of the",passengers had already left.,m,no,n,no,n,no,n,no
+591,grandfathers,m,"The grandfathers were already at the station. After a very long day, the majority of the",people had already left.,m,no,n,no,n,no,n,no
+592,monarchs,n,"The monarchs were already at the station. After a very long day, the majority of the",monarchs had already arrived,n,yes,n,yes,n,unsure,n,yes
+593,queens,f,"The queens were already at the station. After a very long day, the majority of the",queens were still at the,f,yes,f,yes,f,yes,f,yes
+594,kings,m,"The kings were already at the station. After a very long day, the majority of the",kings were already at the,m,yes,m,yes,m,yes,m,yes
+595,siblings,n,"The siblings were already at the station. After a very long day, the majority of the",passengers had already left the,n,no,n,no,n,no,n,no
+596,sisters,f,"The sisters were already at the station. After a very long day, the majority of the",passengers had already left the,f,no,n,no,n,no,n,no
+597,brothers,m,"The brothers were already at the station. After a very long day, the majority of the",passengers had already left the,m,no,n,no,n,no,n,no
+598,parents-in-law,n,"The parents-in-law were already at the station. After a very long day, the majority of the",guests had already left.,n,no,n,no,n,no,n,no
+599,mothers-in-law,f,"The mothers-in-law were already at the station. After a very long day, the majority of the",guests had already left.,f,no,n,no,n,no,n,no
+600,fathers-in-law,m,"The fathers-in-law were already at the station. After a very long day, the majority of the",guests had already left.,m,no,n,no,n,no,n,no
+601,parents,n,"The parents were already at the station. After a very long day, the majority of the",children had already been picked,n,yes,n,no,n,no,n,no
+602,mothers,f,"The mothers were already at the station. After a very long day, the majority of the",mothers were already at the,f,yes,f,yes,f,yes,f,yes
+603,fathers,m,"The fathers were already at the station. After a very long day, the majority of the",fathers were already at the,m,yes,m,yes,m,yes,m,yes
+604,children,n,"The children were already at the station. After a very long day, the majority of the",children were already at the,n,yes,n,yes,n,yes,n,yes
+605,daughters,f,"The daughters were already at the station. After a very long day, the majority of the",family had arrived. The,f,no,n,no,n,NULL,n,no
+606,sons,m,"The sons were already at the station. After a very long day, the majority of the",people were already on the,m,no,n,no,n,NULL,n,no
+607,spouses,n,"The spouses were already at the station. After a very long day, the majority of the",guests had already left.,n,no,n,no,n,no,n,no
+608,wives,f,"The wives were already at the station. After a very long day, the majority of the",men had returned home.,f,no,m,no,m,no,m,no
+609,husbands,m,"The husbands were already at the station. After a very long day, the majority of the",women were also there.,m,no,f,no,f,no,f,no
+610,grandparents,n,"The grandparents were getting off the plane. After such a long day, most of the",passengers were tired and ready,n,no,n,no,n,no,n,no
+611,grandmothers,f,"The grandmothers were getting off the plane. After such a long day, most of the",passengers were tired and hungry,f,no,n,no,n,no,n,no
+612,grandfathers,m,"The grandfathers were getting off the plane. After such a long day, most of the",passengers were already asleep.,m,no,n,no,n,no,n,no
+613,monarchs,n,"The monarchs were getting off the plane. After such a long day, most of the",people were tired. But,n,no,n,no,n,no,n,no
+614,queens,f,"The queens were getting off the plane. After such a long day, most of the",queens were tired and hungry,f,yes,f,yes,f,yes,f,yes
+615,kings,m,"The kings were getting off the plane. After such a long day, most of the",kings were tired and sleepy,m,yes,m,yes,m,yes,m,yes
+616,siblings,n,"The siblings were getting off the plane. After such a long day, most of the",family was tired. The,n,no,n,no,n,yes,n,no
+617,sisters,f,"The sisters were getting off the plane. After such a long day, most of the",passengers were tired. But,f,no,n,no,n,no,n,no
+618,brothers,m,"The brothers were getting off the plane. After such a long day, most of the",passengers were tired and ready,m,no,n,no,n,no,n,no
+619,parents-in-law,n,"The parents-in-law were getting off the plane. After such a long day, most of the",passengers were tired and just,n,no,n,no,n,no,n,no
+620,mothers-in-law,f,"The mothers-in-law were getting off the plane. After such a long day, most of the",passengers were tired and just,f,no,n,no,n,no,n,no
+621,fathers-in-law,m,"The fathers-in-law were getting off the plane. After such a long day, most of the",passengers were tired and hungry,m,no,n,no,n,no,n,no
+622,parents,n,"The parents were getting off the plane. After such a long day, most of the",passengers were tired and just,n,no,n,no,n,no,n,no
+623,mothers,f,"The mothers were getting off the plane. After such a long day, most of the",mothers were tired and hungry,f,yes,f,yes,f,yes,f,yes
+624,fathers,m,"The fathers were getting off the plane. After such a long day, most of the",fathers were tired. But,m,yes,m,yes,m,yes,m,yes
+625,children,n,"The children were getting off the plane. After such a long day, most of the",children were tired and sleepy,n,yes,n,yes,n,yes,n,yes
+626,daughters,f,"The daughters were getting off the plane. After such a long day, most of the",passengers were tired and ready,f,no,n,no,n,no,n,no
+627,sons,m,"The sons were getting off the plane. After such a long day, most of the",passengers were tired and just,m,no,n,no,n,no,n,no
+628,spouses,n,"The spouses were getting off the plane. After such a long day, most of the",passengers were just happy to,n,no,n,no,n,no,n,no
+629,wives,f,"The wives were getting off the plane. After such a long day, most of the",wives were tired and just,f,yes,f,yes,f,yes,f,yes
+630,husbands,m,"The husbands were getting off the plane. After such a long day, most of the",husbands were tired. The,m,yes,m,yes,m,yes,m,yes

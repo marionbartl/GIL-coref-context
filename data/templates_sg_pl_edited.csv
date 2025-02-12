@@ -1,0 +1,89 @@
+item_no,phrase1_masked,phrase2_masked,phrase2_cut,number
+5,The [MASK] were waiting on a bench.,"Because of the cloudy weather, one of the [MASK] was wearing a raincoat.","Because of the cloudy weather, one of the",PL
+9,The [MASK] were waiting near the barrier.,"After a while, most of the [MASK] seemed to want to leave.","After a while, most of the",PL
+16,The [MASK] were waiting on the steps.,It was obvious that some of the [MASK] were in a really good mood.,It was obvious that some of the,PL
+18,The [MASK] were descending the stairs.,It was evident that one of the [MASK] was in a really good mood.,It was evident that one of the,PL
+21,The [MASK] were entering the airport.,It was noticeable that a few of the [MASK] were really sad.,It was noticeable that a few of the,PL
+22,The [MASK] were already on break.,It was noticeable that one of the [MASK] was really calm.,It was noticeable that one of the,PL
+23,The [MASK] looked very sick.,It was obvious that the majority of the [MASK] were in good health.,It was obvious that the majority of the,PL
+27,The [MASK] were descending the steps.,"After such a long day, some of the [MASK] seemed to want to leave.","After such a long day, some of the",PL
+28,The [MASK] were entering the house.,"At the end of the day, a few of the [MASK] seemed to want a break.","At the end of the day, a few of the",PL
+30,The [MASK] were talking calmly.,"After a while, some of the [MASK] seemed to want to leave.","After a while, some of the",PL
+31,The [MASK] were congratulating each other on the result.,It was obvious that the majority of the [MASK] were really sad.,It was obvious that the majority of the,PL
+2,The [MASK] were crossing the hall.,"Given the bad weather, most of the [MASK] were wearing hats.","Given the bad weather, most of the",PL
+8,The [MASK] were going to the supermarket.,"With bad weather expected, one of the [MASK] had an umbrella.","With bad weather expected, one of the",PL
+10,The [MASK] were leaving hastily.,It was evident that most of the [MASK] were really sad.,It was evident that most of the,PL
+12,The [MASK] were walking in the village.,"At the end of the day, one of the [MASK] seemed to want a break.","At the end of the day, one of the",PL
+20,The [MASK] were entering the hospital.,"Given the good weather, some of the [MASK] were not wearing jackets.","Given the good weather, some of the",PL
+6,The [MASK] were walking across the square.,"Because of the heat, several of the [MASK] were not wearing jackets.","Because of the heat, several of the",PL
+13,The [MASK] were crossing the village.,"After a while, the majority of the [MASK] seemed to want to go home.","After a while, the majority of the",PL
+14,The [MASK] were leaving the hotel.,"With good weather expected, some of the [MASK] were wearing hats.","With good weather expected, some of the",PL
+17,The [MASK] were leaving the castle.,It was noticeable that one of the [MASK] was really angry.,It was noticeable that one of the,PL
+19,The [MASK] were crossing the park.,"After a while, several of the [MASK] seemed to want a break.","After a while, several of the",PL
+24,The [MASK] were going to the hospital.,It was evident that a few of the [MASK] looked really sick.,It was evident that a few of the,PL
+29,The [MASK] were coming back from work.,"After a while, a few of the [MASK] seemed to want to turn back.","After a while, a few of the",PL
+32,The [MASK] looked really sad.,It was noticeable that several of the [MASK] were in a very good mood.,It was noticeable that several of the,PL
+33,The [MASK] were arguing loudly.,"After a while, some of the [MASK] seemed to want to leave.","After a while, some of the",PL
+34,The [MASK] were coming back at night.,"Given the good weather, most of the [MASK] were wearing sunglasses.","Given the good weather, most of the",PL
+1,The [MASK] were getting on the bus.,"Given the sun, several of the [MASK] were wearing hats.","Given the sun, several of the",PL
+3,The [MASK] were getting on the bus.,"Given the good weather, a few of the [MASK] were wearing shorts.","Given the good weather, a few of the",PL
+4,The [MASK] were walking in the city.,"After a very long day, most of the [MASK] seemed to want to leave.","After a very long day, most of the",PL
+7,The [MASK] were already at work.,It was evident that several of the [MASK] were really calm.,It was evident that several of the,PL
+11,The [MASK] were entering the building.,It was obvious that the majority of the [MASK] were really angry.,It was obvious that the majority of the,PL
+15,The [MASK] were already at the station.,"After a very long day, the majority of the [MASK] seemed to want to go home.","After a very long day, the majority of the",PL
+25,The [MASK] were getting off the plane.,"After such a long day, most of the [MASK] seemed to want to go home.","After such a long day, most of the",PL
+26,The [MASK] were already at the meeting place.,"After a while, several of the [MASK] seemed to want to leave.","After a while, several of the",PL
+35,The [MASK] were enjoying the sun.,"Given the bad weather, one of the [MASK] was wearing a raincoat.","Given the bad weather, one of the",PL
+36,The [MASK] were waiting in the rain.,"Since it was sunny, some of the [MASK] were wearing t-shirts.","Since it was sunny, some of the",PL
+37,The [MASK] were protecting themselves from the heat.,"Since it was cold, one of the [MASK] was wearing a parka.","Since it was cold, one of the",PL
+38,The [MASK] were protecting themselves from the rain.,"Since it was sunny, several of the [MASK] were wearing hats.","Since it was sunny, several of the",PL
+39,The [MASK] were watching the snowflakes.,"Because of the heat, some of the [MASK] were not wearing jackets.","Because of the heat, some of the",PL
+40,The [MASK] were tasting wine in the sun.,"Because of the rain, a few of the [MASK] had umbrellas.","Because of the rain, a few of the",PL
+41,The [MASK] were watching the match in the rain.,"Because of the good weather, most of the [MASK] were wearing shorts.","Because of the good weather, most of the",PL
+42,The [MASK] were enjoying the sun.,"Since it was raining, most of the [MASK] were wearing parkas.","Since it was raining, most of the",PL
+43,The [MASK] were watching the rain fall.,"Since it was sunny, the majority of the [MASK] were wearing sunglasses.","Since it was sunny, the majority of the",PL
+44,The [MASK] were walking in the snowstorm.,"Given the heat, a few of the [MASK] were wearing t-shirts.","Given the heat, a few of the",PL
+5,The [MASK] was waiting on a bench.,"Because of the cloudy weather, [MASK] was wearing a raincoat.","Because of the cloudy weather,",SG
+9,The [MASK] was waiting near the barrier.,"After a while, [MASK] seemed to want to leave.","After a while,",SG
+16,The [MASK] was waiting on the steps.,It was obvious that [MASK] was in a really good mood.,It was obvious that,SG
+18,The [MASK] was descending the stairs.,It was evident that [MASK] was in a really good mood.,It was evident that,SG
+21,The [MASK] was entering the airport.,It was noticeable that [MASK] was really sad.,It was noticeable that,SG
+22,The [MASK] was already on break.,It was noticeable that [MASK] was really calm.,It was noticeable that,SG
+23,The [MASK] looked very sick.,It was obvious that [MASK] was in good health.,It was obvious that,SG
+27,The [MASK] was descending the steps.,"After such a long day, [MASK] seemed to want to leave.","After such a long day,",SG
+28,The [MASK] was entering the house.,"At the end of the day, [MASK] seemed to want a break.","At the end of the day,",SG
+30,The [MASK] was talking calmly.,"After a while, [MASK] seemed to want to leave.","After a while,",SG
+31,The [MASK] was congratulating each other on the result.,It was obvious that [MASK] was really sad.,It was obvious that,SG
+2,The [MASK] was crossing the hall.,"Given the bad weather, [MASK] was wearing a hat.","Given the bad weather,",SG
+8,The [MASK] was going to the supermarket.,"With bad weather expected, [MASK] had an umbrella.","With bad weather expected,",SG
+10,The [MASK] was leaving hastily.,It was evident that [MASK] was really sad.,It was evident that,SG
+12,The [MASK] was walking in the village.,"At the end of the day, [MASK] seemed to want a break.","At the end of the day,",SG
+20,The [MASK] was entering the hospital.,"Given the good weather, [MASK] was not wearing a jacket.","Given the good weather,",SG
+6,The [MASK] was walking across the square.,"Because of the heat, [MASK] was not wearing a jacket.","Because of the heat,",SG
+13,The [MASK] was crossing the village.,"After a while, [MASK] seemed to want to go home.","After a while,",SG
+14,The [MASK] was leaving the hotel.,"With good weather expected, [MASK] was wearing a hat.","With good weather expected,",SG
+17,The [MASK] was leaving the castle.,It was noticeable that [MASK] was really angry.,It was noticeable that,SG
+19,The [MASK] was crossing the park.,"After a while, [MASK] seemed to want a break.","After a while,",SG
+24,The [MASK] was going to the hospital.,It was evident that [MASK] looked really sick.,It was evident that,SG
+29,The [MASK] was coming back from work.,"After a while, [MASK] seemed to want to turn back.","After a while,",SG
+32,The [MASK] looked really sad.,It was noticeable that [MASK] was in a very good mood.,It was noticeable that,SG
+33,The [MASK] was arguing loudly.,"After a while, [MASK] seemed to want to leave.","After a while,",SG
+34,The [MASK] was coming back at night.,"Given the good weather, [MASK] was wearing sunglasses.","Given the good weather,",SG
+1,The [MASK] was getting on the bus.,"Given the sun, [MASK] was wearing a hat.","Given the sun,",SG
+3,The [MASK] was getting on the bus.,"Given the good weather, [MASK] was wearing shorts.","Given the good weather,",SG
+4,The [MASK] was walking in the city.,"After a very long day, [MASK] seemed to want to leave.","After a very long day,",SG
+7,The [MASK] was already at work.,It was evident that [MASK] was really calm.,It was evident that,SG
+11,The [MASK] was entering the building.,It was obvious that [MASK] was really angry.,It was obvious that,SG
+15,The [MASK] was already at the station.,"After a very long day, [MASK] seemed to want to go home.","After a very long day,",SG
+25,The [MASK] was getting off the plane.,"After such a long day, [MASK] seemed to want to go home.","After such a long day,",SG
+26,The [MASK] was already at the meeting place.,"After a while, [MASK] seemed to want to leave.","After a while,",SG
+35,The [MASK] was enjoying the sun.,"Given the bad weather, [MASK] was wearing a raincoat.","Given the bad weather,",SG
+36,The [MASK] was waiting in the rain.,"Since it was sunny, [MASK] was wearing a t-shirt.","Since it was sunny,",SG
+37,The [MASK] was protecting themselves from the heat.,"Since it was cold, [MASK] was wearing a parka.","Since it was cold,",SG
+38,The [MASK] was protecting themselves from the rain.,"Since it was sunny, [MASK] was wearing a hat.","Since it was sunny,",SG
+39,The [MASK] was watching the snowflakes.,"Because of the heat, [MASK] was not wearing a jacket.","Because of the heat,",SG
+40,The [MASK] was tasting wine in the sun.,"Because of the rain, [MASK] had an umbrella.","Because of the rain,",SG
+41,The [MASK] was watching the match in the rain.,"Because of the good weather, [MASK] was wearing shorts.","Because of the good weather,",SG
+42,The [MASK] was enjoying the sun.,"Since it was raining, [MASK] was wearing a parka.","Since it was raining,",SG
+43,The [MASK] was watching the rain fall.,"Since it was sunny, [MASK] was wearing sunglasses.","Since it was sunny,",SG
+44,The [MASK] was walking in the snowstorm.,"Given the heat, [MASK] was wearing a t-shirt.","Given the heat,",SG
