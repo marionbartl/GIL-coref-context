@@ -1,0 +1,15 @@
+neutral,feminine,masculine,number
+grandparents,grandmothers,grandfathers,PL
+monarchs,queens,kings,PL
+siblings,sisters,brothers,PL
+parents-in-law,mothers-in-law,fathers-in-law,PL
+parents,mothers,fathers,PL
+children,daughters,sons,PL
+spouses,wives,husbands,PL
+grandparent,grandmother,grandfather,SG
+monarch,queen,king,SG
+sibling,sister,brother,SG
+parent-in-law,mother-in-law,father-in-law,SG
+parent,mother,father,SG
+child,daughter,son,SG
+spouse,wife,husband,SG
