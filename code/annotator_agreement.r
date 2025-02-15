@@ -7,7 +7,7 @@ library(report)
 library(ggrepel)
 
 # set working directory
-setwd('/home/marion/Documents/UCD/Projects/TESTING/llm_coref_testing/results/annotations')
+setwd('insert/path/here]')
 
 # ENGLISH DATA
 combined = read.csv("annotations_EN_majorityvotes.csv")

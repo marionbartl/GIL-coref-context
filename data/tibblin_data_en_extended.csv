@@ -1,0 +1,45 @@
+item_no,role_noun,role_noun_gender,phrase1,phrase2,phrase2_masked
+5,grandmothers,f,The grandmothers were waiting on a bench.,"Because of the cloudy weather, one of the men was wearing a raincoat.","Because of the cloudy weather, one of the [MASK] was wearing a raincoat."
+9,grannies,f,The grannies were waiting near the barrier.,"After a while, most of the men seemed to want to leave.","After a while, most of the [MASK] seemed to want to leave."
+16,princesses,f,The princesses were waiting on the steps.,It was obvious that some of the men were in a really good mood.,It was obvious that some of the [MASK] were in a really good mood.
+18,queens,f,The queens were descending the stairs.,It was evident that one of the men was in a really good mood.,It was evident that one of the [MASK] was in a really good mood.
+21,sisters,f,The sisters were entering the airport.,It was noticeable that a few of the men were really sad.,It was noticeable that a few of the [MASK] were really sad.
+22,aunts,f,The aunts were already on break.,It was noticeable that one of the men was really calm.,It was noticeable that one of the [MASK] was really calm.
+23,sisters-in-law,f,The sisters-in-law looked very sick.,It was obvious that the majority of the men were in good health.,It was obvious that the majority of the [MASK] were in good health.
+27,bridesmaids,f,The bridesmaids were descending the steps.,"After such a long day, some of the men seemed to want to leave.","After such a long day, some of the [MASK] seemed to want to leave."
+28,housemaid,f,The housemaids were entering the house.,"At the end of the day, a few of the men seemed to want a break.","At the end of the day, a few of the [MASK] seemed to want a break."
+30,mothers-in-law,f,The mothers-in-law were talking calmly.,"After a while, some of the men seemed to want to leave.","After a while, some of the [MASK] seemed to want to leave."
+31,nieces,f,The nieces were congratulating each other on the result.,It was obvious that the majority of the women were really sad.,It was obvious that the majority of the [MASK] were really sad.
+2,chambermaids,f,The chambermaids were crossing the hall.,"Given the bad weather, most of the women were wearing hats.","Given the bad weather, most of the [MASK] were wearing hats."
+8,au pair girls,f,The au pair girls were going to the supermarket.,"With bad weather expected, one of the women had an umbrella.","With bad weather expected, one of the [MASK] had an umbrella."
+10,mothers,f,The mothers were leaving hastily.,It was evident that most of the women were really sad.,It was evident that most of the [MASK] were really sad.
+12,nuns,f,The nuns were walking in the village.,"At the end of the day, one of the women seemed to want a break.","At the end of the day, one of the [MASK] seemed to want a break."
+20,midwives,f,The midwives were entering the hospital.,"Given the good weather, some of the women were not wearing jackets.","Given the good weather, some of the [MASK] were not wearing jackets."
+6,grandfathers,m,The grandfathers were walking across the square.,"Because of the heat, several of the women were not wearing jackets.","Because of the heat, several of the [MASK] were not wearing jackets."
+13,uncles,m,The uncles were crossing the village.,"After a while, the majority of the women seemed to want to go home.","After a while, the majority of the [MASK] seemed to want to go home."
+14,grandpas,m,The grandpas were leaving the hotel.,"With good weather expected, some of the women were wearing hats.","With good weather expected, some of the [MASK] were wearing hats."
+17,princes,m,The princes were leaving the castle.,It was noticeable that one of the women was really angry.,It was noticeable that one of the [MASK] was really angry.
+19,kings,m,The kings were crossing the park.,"After a while, several of the women seemed to want a break.","After a while, several of the [MASK] seemed to want a break."
+24,young men,m,The young men were going to the hospital.,It was evident that a few of the women looked really sick.,It was evident that a few of the [MASK] looked really sick.
+29,fathers-in-law,m,The fathers-in-law were coming back from work.,"After a while, a few of the women seemed to want to turn back.","After a while, a few of the [MASK] seemed to want to turn back."
+32,brothers-in-law,m,The brothers-in-law looked really sad.,It was noticeable that several of the women were in a very good mood.,It was noticeable that several of the [MASK] were in a very good mood.
+33,husbands,m,The husbands were arguing loudly.,"After a while, some of the women seemed to want to leave.","After a while, some of the [MASK] seemed to want to leave."
+34,landlords,m,The landlords were coming back at night.,"Given the good weather, most of the women were wearing sunglasses.","Given the good weather, most of the [MASK] were wearing sunglasses."
+1,cardinals,m,The cardinals were getting on the bus.,"Given the sun, several of the men were wearing hats.","Given the sun, several of the [MASK] were wearing hats."
+3,brothers,m,The brothers were getting on the bus.,"Given the good weather, a few of the men were wearing shorts.","Given the good weather, a few of the [MASK] were wearing shorts."
+4,bellboys,m,The bellboys were walking in the city.,"After a very long day, most of the men seemed to want to leave.","After a very long day, most of the [MASK] seemed to want to leave."
+7,businessmen,m,The businessmen were already at work.,It was evident that several of the men were really calm.,It was evident that several of the [MASK] were really calm.
+11,monks,m,The monks were entering the building.,It was obvious that the majority of the men were really angry.,It was obvious that the majority of the [MASK] were really angry.
+15,fathers,m,The fathers were already at the station.,"After a very long day, the majority of the men seemed to want to go home.","After a very long day, the majority of the [MASK] seemed to want to go home."
+25,flight attendants,n,The flight attendants were getting off the plane.,"After such a long day, most of the men seemed to want to go home.","After such a long day, most of the [MASK] seemed to want to go home."
+26,stewards,n,The stewards were already at the meeting place.,"After a while, several of the women seemed to want to leave.","After a while, several of the [MASK] seemed to want to leave."
+35,allergists,n,The allergists were enjoying the sun.,"Given the bad weather, one of the men was wearing a raincoat.","Given the bad weather, one of the [MASK] was wearing a raincoat."
+36,choreographers,n,The choreographers were waiting in the rain.,"Since it was sunny, some of the men were wearing t-shirts.","Since it was sunny, some of the [MASK] were wearing t-shirts."
+37,civil servants,n,The civil servants were protecting themselves from the heat.,"Since it was cold, one of the women was wearing a parka.","Since it was cold, one of the [MASK] was wearing a parka."
+38,cyclists,n,The cyclists were protecting themselves from the rain.,"Since it was sunny, several of the women were wearing hats.","Since it was sunny, several of the [MASK] were wearing hats."
+39,academics,n,The academics were watching the snowflakes.,"Because of the heat, some of the women were not wearing jackets.","Because of the heat, some of the [MASK] were not wearing jackets."
+40,oenologists,n,The oenologists were tasting wine in the sun.,"Because of the rain, a few of the men had umbrellas.","Because of the rain, a few of the [MASK] had umbrellas."
+41,referees,n,The referees were watching the match in the rain.,"Because of the good weather, most of the men were wearing shorts.","Because of the good weather, most of the [MASK] were wearing shorts."
+42,volunteers,n,The volunteers were enjoying the sun.,"Since it was raining, most of the women were wearing parkas.","Since it was raining, most of the [MASK] were wearing parkas."
+43,veterinarians,n,The veterinarians were watching the rain fall.,"Since it was sunny, the majority of the men were wearing sunglasses.","Since it was sunny, the majority of the [MASK] were wearing sunglasses."
+44,archaeologists,n,The archaeologists were walking in the snowstorm.,"Given the heat, a few of the women were wearing t-shirts.","Given the heat, a few of the [MASK] were wearing t-shirts."

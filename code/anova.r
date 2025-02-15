@@ -15,7 +15,7 @@ library(khroma)
 
 
 # set working directory
-setwd('/home/marion/Documents/UCD/Projects/TESTING/llm_coref_testing/results')
+setwd('insert/path/here]')
 
 
 # GPT-2
