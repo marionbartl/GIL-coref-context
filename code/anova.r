@@ -40,7 +40,7 @@ file <- "tibblin_EN_templates_logresults_PL_qwen32B-4bit.csv"
 file <- "tibblin_EN_templates_logresults_SG_qwen32B-4bit.csv"
 
 # DE - Leo Mistral
-file <- "tibblin_DE_templates_logresults_PL_leo7B-4bit.csv" # mean token prob
+file <- "tibblin_DE_templates_logresults_PL_leo7B-4bit_mean.csv" # mean token prob
 file = "tibblin_DE_templates_logresults_PL_leo7B-4bit_firsttok.csv"
 
 
@@ -94,11 +94,10 @@ ggplot(data, aes(x = coref_gender, y = coref_logprob, fill = coref_gender)) +
        x = "coreferent gender",
        subtitle = "Leo Mistral (7B, 4bit) \U2012 DE PL dataset",
        fill = "coreferent gender") +
-  theme_bw(base_size = 17)+
+  theme_bw(base_size = 21)+
   theme(
     panel.grid.major = element_line(color = "gray90"),
     legend.position = "none")
-
 
 ### DESCRIPTIVE STATISTICS BY GROUP ###
 
